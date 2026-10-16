@@ -1,8 +1,8 @@
-# Complete Exam 2 Study Guide — Worked Lesson
+# Complete Exam 2 Study Guide — Worked Video Lesson
 
-All 52 numbered problems, including every lettered subpart. Source: the user-provided Exam2StudyGuide.pdf.
+Source: Exam2StudyGuide.pdf. All 52 numbered problems and their lettered subparts. Neural synthetic narration: Lessac high via Piper.
 
-## Complete Exam 2 walkthrough
+## Introduction: Complete Exam 2 walkthrough
 
 All 52 problems • Every subpart • Pause whenever you need
 
@@ -14,71 +14,71 @@ Use the chapter markers to jump to a problem. The new narration uses a neural sy
 
 ## Problem 1: Derivative table: powers and exponentials
 
-$(a)\quad y=x^4\quad\Rightarrow\quad y\prime=4x^3$
+$(a)\quad y=x^4\quad\Rightarrow\quad y'=4x^3$
 
 For part a, use the power rule. Bring the exponent down as a multiplier, then subtract one from the exponent. X to the fourth becomes four x cubed.
 
-$(b)\quad (e^x)\prime=e^x\qquad (c)\quad (\sqrt{x})\prime=\frac{1}{2\sqrt{x}}$
+$(b)\quad (e^x)'=e^x\qquad (c)\quad (\sqrt{x})'=\frac{1}{2\sqrt{x}}$
 
 For b, e to the x is its own derivative. For c, rewrite the square root as x to the one half. The power rule gives one half times x to the negative one half, which is one over two square root x, for positive x.
 
-$(d)\quad (x^{-2})\prime=-2x^{-3}=-\frac{2}{x^3}$
+$(d)\quad (x^{-2})'=-2x^{-3}=-\frac{2}{x^3}$
 
 For d, one over x squared is x to the negative two. The power rule still works with a negative exponent. The derivative is negative two over x cubed, with x not zero.
 
 ## Problem 1: Derivative table: logarithms and sine
 
-$(e)\quad (2^x)\prime=2^x\ln 2$
+$(e)\quad (2^x)'=2^x\ln 2$
 
 In part e, the base is two, not e. An exponential with constant positive base a differentiates to a to the x times natural log a. Do not use the ordinary power rule when x is in the exponent.
 
-$(f),(i)\quad (\sin x)\prime=\cos x$
+$(f),(i)\quad (\sin x)'=\cos x$
 
 Parts f and i both say sine x in the PDF. Their derivative is cosine x. We are keeping that repeated question as printed.
 
-$(g)\quad (\ln x)\prime=\frac{1}{x}\qquad(h)\quad (\log_4x)\prime=\frac{1}{x\ln4}$
+$(g)\quad (\ln x)'=\frac{1}{x}\qquad(h)\quad (\log_4x)'=\frac{1}{x\ln4}$
 
 Part g is one over x, for positive x. For h, use change of base: log base four of x equals natural log x divided by natural log four. That constant denominator stays in the derivative.
 
 ## Problem 1: Derivative table: trigonometric functions
 
-$(j)\quad (\cos x)\prime=-\sin x\qquad(k)\quad (\tan x)\prime=\sec^2x$
+$(j)\quad (\cos x)'=-\sin x\qquad(k)\quad (\tan x)'=\sec^2x$
 
 Part j has a negative sign: cosine differentiates to negative sine. Part k, tangent, differentiates to secant squared. These formulas assume angles in radians.
 
-$(l)\quad (\cot x)\prime=-\csc^2x\qquad(m)\quad (\sec x)\prime=\sec x\tan x$
+$(l)\quad (\cot x)'=-\csc^2x\qquad(m)\quad (\sec x)'=\sec x\tan x$
 
 Part l is negative cosecant squared. Part m is secant times tangent. Evaluate these only where the original trigonometric function is defined.
 
-$(n)\quad (\csc x)\prime=-\csc x\cot x$
+$(n)\quad (\csc x)'=-\csc x\cot x$
 
 Part n is negative cosecant times cotangent. A useful memory check: the derivatives of cosine, cotangent, and cosecant have a leading minus sign.
 
 ## Problem 1: Derivative table: inverse trigonometry
 
-$(o)\quad (\sin^{-1}x)\prime=\frac{1}{\sqrt{1-x^2}}$
+$(o)\quad (\sin^{-1}x)'=\frac{1}{\sqrt{1-x^2}}$
 
 In part o, sine to the negative one means inverse sine, also called arc sine. It does not mean reciprocal sine. Its derivative is one over square root of one minus x squared, for x strictly between negative one and one.
 
-$(p)\quad (\cos^{-1}x)\prime=-\frac{1}{\sqrt{1-x^2}}$
+$(p)\quad (\cos^{-1}x)'=-\frac{1}{\sqrt{1-x^2}}$
 
 Inverse cosine has the same square root denominator and a negative sign. Its derivative also requires negative one less than x less than one.
 
-$(q)\quad (\tan^{-1}x)\prime=\frac{1}{1+x^2}$
+$(q)\quad (\tan^{-1}x)'=\frac{1}{1+x^2}$
 
 Inverse tangent differentiates to one over one plus x squared. Unlike inverse sine and inverse cosine, this derivative is defined for every real x.
 
 ## Problem 1: Derivative table: hyperbolic functions
 
-$(r)\quad (\sinh x)\prime=\cosh x\qquad(s)\quad (\cosh x)\prime=\sinh x$
+$(r)\quad (\sinh x)'=\cosh x\qquad(s)\quad (\cosh x)'=\sinh x$
 
 Parts r and s are hyperbolic sine and hyperbolic cosine. They differentiate into each other, and neither formula has the negative sign that appears for ordinary cosine.
 
-$(t)\quad (\tanh x)\prime=\mathrm{sech}^2x=\frac{1}{\cosh^2x}$
+$(t)\quad (\tanh x)'=\mathrm{sech}^2x=\frac{1}{\cosh^2x}$
 
 The derivative of hyperbolic tangent is hyperbolic secant squared, meaning one over hyperbolic cosine squared. Keep the hyperbolic functions distinct from ordinary trigonometry.
 
-$(u)\quad (x^{-1/3})\prime=-\frac{1}{3}x^{-4/3}\quad(x\ne0)$
+$(u)\quad (x^{-1/3})'=-\frac{1}{3}x^{-4/3}\quad(x\ne0)$
 
 For part u, one over the cube root of x is x to the negative one third. Multiply by negative one third, then reduce the exponent to negative four thirds. This real cube-root formula works on either side of zero, but not at zero.
 
@@ -88,7 +88,7 @@ $f(x)=x^2-10x+100$
 
 Problem two asks for two derivatives. Apply the sum rule, differentiating each term separately. A constant has zero derivative because it does not change.
 
-$f\prime(x)=2x-10\qquad f\prime\prime(x)=2$
+$f'(x)=2x-10\qquad f''(x)=2$
 
 X squared becomes two x, negative ten x becomes negative ten, and one hundred becomes zero. Differentiate again: two x becomes two and negative ten becomes zero.
 
@@ -98,7 +98,7 @@ $y=\sin x+\cos x$
 
 For problem three, use the sine and cosine formulas separately. Watch the sign when cosine is differentiated.
 
-$y\prime=\cos x-\sin x\qquad y\prime\prime=-\sin x-\cos x$
+$y'=\cos x-\sin x\qquad y''=-\sin x-\cos x$
 
 The first derivative is cosine minus sine. Differentiating again gives negative sine minus cosine. The minus before sine stays when taking its derivative.
 
@@ -108,7 +108,7 @@ $F(x)=(16x)^3$
 
 Problem four is a cube whose inside is sixteen x. We can use the chain rule or expand the constant first. We will show both ways to check the result.
 
-$F\prime(x)=3(16x)^2(16)=12288x^2$
+$F'(x)=3(16x)^2(16)=12288x^2$
 
 The chain rule gives three times the inside squared, times the inside derivative sixteen. Alternatively, sixteen cubed is four thousand ninety six, so the original is four thousand ninety six x cubed. Both methods give twelve thousand two hundred eighty eight x squared.
 
@@ -118,11 +118,11 @@ $y=\cos x-2\tan x$
 
 For problem five, keep the constant multiplier negative two. Cosine becomes negative sine, and tangent becomes secant squared.
 
-$y\prime=-\sin x-2\sec^2x$
+$y'=-\sin x-2\sec^2x$
 
 This is the first derivative. To differentiate secant squared, view it as the square of secant x and use the chain rule.
 
-$y\prime\prime=-\cos x-4\sec^2x\tan x$
+$y''=-\cos x-4\sec^2x\tan x$
 
 The derivative of secant squared is two secant x times secant x tangent x. Multiplying by negative two gives negative four secant squared x tangent x.
 
@@ -132,11 +132,11 @@ $g(x)=x^2+x^{-2},\qquad x\ne0$
 
 Rewrite the reciprocal as a negative power. This avoids using the quotient rule for a simple reciprocal.
 
-$g\prime(x)=2x-2x^{-3}=2x-\frac{2}{x^3}$
+$g'(x)=2x-2x^{-3}=2x-\frac{2}{x^3}$
 
 The first derivative uses the power rule twice. Negative exponents obey the same bring-down-and-subtract-one rule.
 
-$g\prime\prime(x)=2+6x^{-4}=2+\frac{6}{x^4}$
+$g''(x)=2+6x^{-4}=2+\frac{6}{x^4}$
 
 Differentiate again. Negative two times negative three gives positive six, and the exponent becomes negative four.
 
@@ -146,7 +146,7 @@ $y=\frac{\tan x}{x}$
 
 Problem seven is a quotient. Here both the numerator and denominator change, so use the quotient rule.
 
-$y\prime=\frac{x\sec^2x-\tan x}{x^2}$
+$y'=\frac{x\sec^2x-\tan x}{x^2}$
 
 Multiply the denominator by the derivative of the numerator. Subtract the numerator times the derivative of the denominator, which is one. Divide by the original denominator squared. Keep x nonzero and cosine x nonzero.
 
@@ -156,7 +156,7 @@ $y=x^{4/3}-x^{2/3}$
 
 For fractional exponents, the power rule still applies. Subtract one by writing one as three thirds.
 
-$y\prime=\frac{4}{3}x^{1/3}-\frac{2}{3}x^{-1/3}\quad(x\ne0)$
+$y'=\frac{4}{3}x^{1/3}-\frac{2}{3}x^{-1/3}\quad(x\ne0)$
 
 Four thirds minus one is one third. Two thirds minus one is negative one third. At zero, this derivative is not finite; the original function has a cusp there.
 
@@ -202,11 +202,11 @@ $y=e^{2x}\tan^{-1}(x/2)$
 
 Problem eleven combines the product rule with two chain rules. The superscript negative one means inverse tangent, not reciprocal tangent.
 
-$(e^{2x})\prime=2e^{2x},\quad (\tan^{-1}(x/2))\prime=\frac{1/2}{1+x^2/4}=\frac{2}{x^2+4}$
+$(e^{2x})'=2e^{2x},\quad (\tan^{-1}(x/2))'=\frac{1/2}{1+x^2/4}=\frac{2}{x^2+4}$
 
 The exponential needs the inside derivative two. Inverse tangent gives one over one plus its inside squared, multiplied by the inside derivative one half. Simplifying gives two over x squared plus four.
 
-$y\prime=e^{2x}\left[2\tan^{-1}(x/2)+\frac{2}{x^2+4}\right]$
+$y'=e^{2x}\left[2\tan^{-1}(x/2)+\frac{2}{x^2+4}\right]$
 
 Use the product rule and factor out e to the two x. There are two terms inside the brackets because either factor can change.
 
@@ -216,7 +216,7 @@ $y=\sin^{-1}(x^2-1)$
 
 Use the inverse sine derivative, not the ordinary sine derivative. Name the inside x squared minus one.
 
-$y\prime=\frac{2x}{\sqrt{1-(x^2-1)^2}}$
+$y'=\frac{2x}{\sqrt{1-(x^2-1)^2}}$
 
 Put the inside derivative two x in the numerator. The denominator is square root of one minus the entire inside squared. The formula applies where the denominator is positive.
 
@@ -240,11 +240,11 @@ $h(x)=\frac{x+2}{x-1}=1+\frac{3}{x-1}$
 
 For problem fourteen, divide the numerator into x minus one plus three. This rewriting makes both derivatives easier and keeps x not equal to one.
 
-$h\prime(x)=-3(x-1)^{-2}=-\frac{3}{(x-1)^2}$
+$h'(x)=-3(x-1)^{-2}=-\frac{3}{(x-1)^2}$
 
 One differentiates to zero. Three times x minus one to the negative one becomes negative three times x minus one to the negative two.
 
-$h\prime\prime(x)=6(x-1)^{-3}=\frac{6}{(x-1)^3}$
+$h''(x)=6(x-1)^{-3}=\frac{6}{(x-1)^3}$
 
 Differentiate again. Negative three times negative two gives six. The inside derivative is one, so it adds no extra factor.
 
@@ -254,15 +254,15 @@ $y=\csc x\cot x$
 
 Use the product rule. Both cosecant and cotangent have negative derivatives. This problem is a useful test of sign tracking.
 
-$y\prime=-\csc x\cot^2x-\csc^3x$
+$y'=-\csc x\cot^2x-\csc^3x$
 
 The first product contributes negative cosecant times cotangent squared. The second contributes negative cosecant cubed.
 
-$(-\csc x\cot^2x)\prime=\csc x\cot^3x+2\csc^3x\cot x$
+$(-\csc x\cot^2x)'=\csc x\cot^3x+2\csc^3x\cot x$
 
 For the second derivative, apply the product rule again to the first term. Differentiating cotangent squared uses the chain rule and contributes a second positive term.
 
-$y\prime\prime=\csc x\cot^3x+5\csc^3x\cot x$
+$y''=\csc x\cot^3x+5\csc^3x\cot x$
 
 The derivative of negative cosecant cubed contributes another three cosecant cubed cotangent. Combine that with the two already present to get five.
 
@@ -272,11 +272,11 @@ $f(u)=\frac{1-u^2}{1+u^2}$
 
 Differentiate with respect to u. The top derivative is negative two u, and the bottom derivative is positive two u.
 
-$f\prime(u)=\frac{-2u(1+u^2)-(1-u^2)(2u)}{(1+u^2)^2}$
+$f'(u)=\frac{-2u(1+u^2)-(1-u^2)(2u)}{(1+u^2)^2}$
 
 The quotient rule subtracts the second product. Keep the parentheses so the minus sign applies to the entire product.
 
-$f\prime(u)=-\frac{4u}{(1+u^2)^2}$
+$f'(u)=-\frac{4u}{(1+u^2)^2}$
 
 Expanding the numerator cancels the cubic terms. The two linear terms add to negative four u. The denominator never vanishes for real u.
 
@@ -286,7 +286,7 @@ $g(x)=\sqrt{x^2-7x}=(x^2-7x)^{1/2}$
 
 Rewrite the square root as a one-half power. The outer derivative must be multiplied by the derivative of the polynomial inside.
 
-$g\prime(x)=\frac{2x-7}{2\sqrt{x^2-7x}}$
+$g'(x)=\frac{2x-7}{2\sqrt{x^2-7x}}$
 
 The inside derivative is two x minus seven. The formula applies when x squared minus seven x is positive, meaning x less than zero or x greater than seven. The endpoints do not have a finite two-sided derivative.
 
@@ -296,7 +296,7 @@ $v=x\sqrt{x}+\frac{1}{x^2\sqrt{x}}=x^{3/2}+x^{-5/2}$
 
 Multiply powers of x by adding exponents. The first term has exponent one plus one half, and the reciprocal term has exponent negative two minus one half. The real domain is x positive.
 
-$v\prime=\frac{3}{2}x^{1/2}-\frac{5}{2}x^{-7/2}$
+$v'=\frac{3}{2}x^{1/2}-\frac{5}{2}x^{-7/2}$
 
 Use the power rule on each term. This is simpler than using both a product rule and a quotient rule on the original expression.
 
@@ -306,7 +306,7 @@ $h(t)=\left(t-\frac{1}{t}\right)^{3/2}$
 
 Identify the outside power, three halves, and the inside t minus one over t. The chain rule multiplies their derivatives.
 
-$h\prime(t)=\frac{3}{2}\left(t-\frac{1}{t}\right)^{1/2}\left(1+\frac{1}{t^2}\right)$
+$h'(t)=\frac{3}{2}\left(t-\frac{1}{t}\right)^{1/2}\left(1+\frac{1}{t^2}\right)$
 
 The derivative of negative one over t is positive one over t squared. Keep that plus sign. This formula is used on the interior of the real domain where the inside is positive.
 
@@ -316,7 +316,7 @@ $F(x)=(x^3-5x)^4$
 
 The whole polynomial is raised to the fourth power. Keep it together while taking the outer derivative.
 
-$F\prime(x)=4(x^3-5x)^3(3x^2-5)$
+$F'(x)=4(x^3-5x)^3(3x^2-5)$
 
 Bring down four and lower the outer exponent to three. Then multiply by three x squared minus five, the derivative of the inside.
 
@@ -326,11 +326,11 @@ $g(t)=(6t^2+5)^3(t^3-7)^4$
 
 This is a product, and each factor also needs the chain rule. Write two product-rule terms before simplifying.
 
-$g\prime=36t(6t^2+5)^2(t^3-7)^4+12t^2(6t^2+5)^3(t^3-7)^3$
+$g'=36t(6t^2+5)^2(t^3-7)^4+12t^2(6t^2+5)^3(t^3-7)^3$
 
 The first factor differentiates to three times its square times twelve t. The second differentiates to four times its cube times three t squared. Keep the untouched factor in each term.
 
-$g\prime=12t(6t^2+5)^2(t^3-7)^3[3(t^3-7)+t(6t^2+5)]$
+$g'=12t(6t^2+5)^2(t^3-7)^3[3(t^3-7)+t(6t^2+5)]$
 
 This factored form is optional. Pull out the factors shared by both terms. The unsimplified two-term version is also a complete correct derivative.
 
@@ -344,7 +344,7 @@ $\frac{d}{dy}\left(\frac{y-6}{y+7}\right)=\frac{(y+7)-(y-6)}{(y+7)^2}=\frac{13}{
 
 The numerator simplifies to thirteen because y cancels and subtracting negative six adds six.
 
-$F\prime(y)=3\left(\frac{y-6}{y+7}\right)^2\frac{13}{(y+7)^2}=\frac{39(y-6)^2}{(y+7)^4}$
+$F'(y)=3\left(\frac{y-6}{y+7}\right)^2\frac{13}{(y+7)^2}=\frac{39(y-6)^2}{(y+7)^4}$
 
 Multiply the derivative of the outer cube by the derivative of the inside. Combining the denominator powers gives a fourth power. Y cannot be negative seven.
 
@@ -354,11 +354,11 @@ $y=\sqrt{e^{4x}-e^{x^2}}$
 
 There are multiple layers here: a square root outside, and two exponentials inside. Differentiate the entire expression under the radical.
 
-$(e^{4x}-e^{x^2})\prime=4e^{4x}-2xe^{x^2}$
+$(e^{4x}-e^{x^2})'=4e^{4x}-2xe^{x^2}$
 
 The first exponent contributes four. The second exponent contributes two x. Keep the subtraction between the terms.
 
-$y\prime=\frac{4e^{4x}-2xe^{x^2}}{2\sqrt{e^{4x}-e^{x^2}}}$
+$y'=\frac{4e^{4x}-2xe^{x^2}}{2\sqrt{e^{4x}-e^{x^2}}}$
 
 Divide the inside derivative by twice the original square root. For a finite derivative this requires the expression under the radical to be positive. Here that means zero less than x less than four.
 
@@ -368,11 +368,11 @@ $y=\sin^3x+\cos^3x$
 
 The powers apply to the trigonometric values. Sine cubed x means sine x, all cubed. Differentiate each cube with the chain rule.
 
-$y\prime=3\sin^2x\cos x-3\cos^2x\sin x$
+$y'=3\sin^2x\cos x-3\cos^2x\sin x$
 
 The sine term contributes cosine as its inside derivative. The cosine term contributes negative sine, which creates the minus sign.
 
-$y\prime=3\sin x\cos x(\sin x-\cos x)$
+$y'=3\sin x\cos x(\sin x-\cos x)$
 
 Factor out three sine x cosine x if you want a compact answer. Both forms describe the same derivative.
 
@@ -404,11 +404,11 @@ $y=x\sinh(x^2)$
 
 Use the product rule for x times hyperbolic sine of x squared. Hyperbolic sine differentiates to hyperbolic cosine, with an additional inside derivative.
 
-$y\prime=\sinh(x^2)+x\cosh(x^2)(2x)$
+$y'=\sinh(x^2)+x\cosh(x^2)(2x)$
 
 The derivative of x is one. In the second term, keep x and multiply hyperbolic cosine of x squared by two x.
 
-$y\prime=\sinh(x^2)+2x^2\cosh(x^2)$
+$y'=\sinh(x^2)+2x^2\cosh(x^2)$
 
 Combine the x factors. There is no negative sign when differentiating hyperbolic sine.
 
@@ -418,7 +418,7 @@ $y=\ln(\cosh(3x))$
 
 For a logarithm of a function, differentiate the inside and divide by the original inside. Then use the chain rule again for hyperbolic cosine of three x.
 
-$y\prime=\frac{3\sinh(3x)}{\cosh(3x)}=3\tanh(3x)$
+$y'=\frac{3\sinh(3x)}{\cosh(3x)}=3\tanh(3x)$
 
 Hyperbolic cosine differentiates to hyperbolic sine, and three x contributes three. Hyperbolic sine divided by hyperbolic cosine is hyperbolic tangent.
 
@@ -428,15 +428,15 @@ $y^5+3x^2y^2+5x^4=12$
 
 Treat y as a function of x. The middle term is a product of x squared and y squared, so it needs a product rule as well as a chain rule.
 
-$5y^4y\prime+6xy^2+6x^2yy\prime+20x^3=0$
+$5y^4y'+6xy^2+6x^2yy'+20x^3=0$
 
 The derivative of y to the fifth includes y prime. In the middle term, differentiate x squared for one term and y squared for the other. The constant twelve differentiates to zero.
 
-$(5y^4+6x^2y)y\prime=-6xy^2-20x^3$
+$(5y^4+6x^2y)y'=-6xy^2-20x^3$
 
 Collect the terms containing y prime on one side. Factor out y prime, then move the remaining terms to the other side.
 
-$y\prime=-\frac{6xy^2+20x^3}{5y^4+6x^2y}$
+$y'=-\frac{6xy^2+20x^3}{5y^4+6x^2y}$
 
 Divide by the coefficient of y prime, wherever it is nonzero. This gives the slope along the implicit curve at points where that expression defines a derivative.
 
@@ -476,7 +476,7 @@ $y=\frac{x^3+x}{x^2+2}\quad(x\ne0)$
 
 The new denominator x squared plus two never vanishes for real x. But the original denominator equals x over x squared plus two, so the original equation excludes x equal to zero.
 
-$y\prime=\frac{(3x^2+1)(x^2+2)-2x(x^3+x)}{(x^2+2)^2}=\frac{x^4+5x^2+2}{(x^2+2)^2}$
+$y'=\frac{(3x^2+1)(x^2+2)-2x(x^3+x)}{(x^2+2)^2}=\frac{x^4+5x^2+2}{(x^2+2)^2}$
 
 Differentiate the explicit quotient and simplify. The original curve still excludes zero, even though the simplified derivative expression has a value there.
 
@@ -486,15 +486,15 @@ $x\cos y+y\cos x=1$
 
 Both terms are products. Cosine y also needs the chain rule because y depends on x.
 
-$\cos y-x\sin y\,y\prime+y\prime\cos x-y\sin x=0$
+$\cos y-x\sin y\,y'+y'\cos x-y\sin x=0$
 
 Differentiate x cosine y with the product rule. Differentiate y cosine x with another product rule. Notice which derivatives create y prime and which do not.
 
-$y\prime(\cos x-x\sin y)=y\sin x-\cos y$
+$y'(\cos x-x\sin y)=y\sin x-\cos y$
 
 Collect y prime terms. Move the other terms to the opposite side, keeping both signs.
 
-$y\prime=\frac{y\sin x-\cos y}{\cos x-x\sin y}$
+$y'=\frac{y\sin x-\cos y}{\cos x-x\sin y}$
 
 Divide by the remaining coefficient where it is nonzero. Keeping the implicit variables in the answer is expected; there is no need to solve the original equation for y.
 
@@ -526,11 +526,11 @@ $\ln y=\sin x\ln(\tan x)$
 
 Take a logarithm and bring the sine x exponent in front. The right side is now a product.
 
-$\frac{y\prime}{y}=\cos x\ln(\tan x)+\sin x\frac{\sec^2x}{\tan x}$
+$\frac{y'}{y}=\cos x\ln(\tan x)+\sin x\frac{\sec^2x}{\tan x}$
 
 Differentiate with the product rule. The logarithm of tangent has derivative secant squared divided by tangent.
 
-$y\prime=(\tan x)^{\sin x}[\cos x\ln(\tan x)+\sec x]$
+$y'=(\tan x)^{\sin x}[\cos x\ln(\tan x)+\sec x]$
 
 Multiply by the original y. The second term inside the brackets simplifies to secant x because sine x times secant squared x divided by tangent x equals one over cosine x.
 
@@ -540,7 +540,7 @@ $y=\frac{x}{x-3},\qquad (x_0,y_0)=(6,2)$
 
 A tangent line needs the point and its slope. Check the point: six divided by three is two, so it lies on the graph.
 
-$y\prime=\frac{(x-3)-x}{(x-3)^2}=-\frac{3}{(x-3)^2},\quad m=-\frac{1}{3}$
+$y'=\frac{(x-3)-x}{(x-3)^2}=-\frac{3}{(x-3)^2},\quad m=-\frac{1}{3}$
 
 Differentiate with the quotient rule, then evaluate at x equal to six. The derivative gives the tangent slope.
 
@@ -554,7 +554,7 @@ $y=2\sin x,\qquad (\pi/6,1)$
 
 At pi over six, sine is one half, so twice sine equals the given height one.
 
-$y\prime=2\cos x,\quad m=2\cos(\pi/6)=\sqrt{3}$
+$y'=2\cos x,\quad m=2\cos(\pi/6)=\sqrt{3}$
 
 The derivative of sine is cosine. Cosine pi over six is square root three over two, so multiplying by two gives square root three.
 
@@ -568,7 +568,7 @@ $y=\sin x+\cos 2x,\qquad (\pi/6,1)$
 
 The angle in the cosine term is two x. That inside factor will contribute a two when we differentiate.
 
-$y\prime=\cos x-2\sin2x$
+$y'=\cos x-2\sin2x$
 
 Differentiate sine normally. Cosine two x becomes negative sine two x, times the inside derivative two.
 
@@ -586,11 +586,11 @@ $y=\frac{x}{(3-x^2)^5}=x(3-x^2)^{-5},\quad (2,-2)$
 
 Rewrite the quotient as a product with a negative exponent. This lets the product and chain rules handle the derivative cleanly.
 
-$y\prime=(3-x^2)^{-5}+10x^2(3-x^2)^{-6}$
+$y'=(3-x^2)^{-5}+10x^2(3-x^2)^{-6}$
 
 The derivative of the second factor is negative five times the inside to the negative six, times negative two x. The two negative signs cancel.
 
-$y\prime=\frac{3+9x^2}{(3-x^2)^6},\qquad m=39$
+$y'=\frac{3+9x^2}{(3-x^2)^6},\qquad m=39$
 
 Use a common denominator. Three minus x squared plus ten x squared becomes three plus nine x squared. At x equal to two, the denominator is one and the numerator is thirty nine.
 
@@ -604,7 +604,7 @@ $\frac{x^2}{16}-\frac{y^2}{9}=1,\qquad(-5,9/4)$
 
 This curve is implicit, so find the slope with implicit differentiation. The point satisfies the equation: twenty five sixteenths minus nine sixteenths equals one.
 
-$\frac{x}{8}-\frac{2y}{9}y\prime=0\quad\Rightarrow\quad y\prime=\frac{9x}{16y}$
+$\frac{x}{8}-\frac{2y}{9}y'=0\quad\Rightarrow\quad y'=\frac{9x}{16y}$
 
 Differentiate both squares. The y square needs y prime. Solve the resulting linear equation for y prime.
 
@@ -622,11 +622,11 @@ $y^2=x^3(2-x),\qquad (1,1)$
 
 We need a product rule on the right and an implicit chain rule on the left.
 
-$2yy\prime=3x^2(2-x)-x^3=6x^2-4x^3$
+$2yy'=3x^2(2-x)-x^3=6x^2-4x^3$
 
 The first right-hand term differentiates x cubed and keeps two minus x. The second keeps x cubed and multiplies by negative one.
 
-$y\prime=\frac{6x^2-4x^3}{2y},\quad m=1\quad\Rightarrow\quad y=x$
+$y'=\frac{6x^2-4x^3}{2y},\quad m=1\quad\Rightarrow\quad y=x$
 
 At one comma one, the slope is one. Point-slope form gives y minus one equals x minus one, so the tangent is y equals x.
 
@@ -698,15 +698,15 @@ Substitute the incoming volume rate and divide. The water height rises at about 
 
 ## Problem 43: Related rates: cube surface area
 
-$V=a^3,\quad A=6a^2,\quad V\prime=10\ \mathrm{cm^3/min}$
+$V=a^3,\quad A=6a^2,\quad V'=10\ \mathrm{cm^3/min}$
 
 Let a be the changing edge length. Both volume and surface area depend on a, so use a as the bridge between their rates.
 
-$V\prime=3a^2a\prime\quad\Rightarrow\quad a\prime=\frac{10}{3(30)^2}=\frac{1}{270}\ \mathrm{cm/min}$
+$V'=3a^2a'\quad\Rightarrow\quad a'=\frac{10}{3(30)^2}=\frac{1}{270}\ \mathrm{cm/min}$
 
 Differentiate the volume and use edge length thirty centimeters. This gives the edge-length rate, not the requested area rate yet.
 
-$A\prime=12aa\prime=12(30)\frac{1}{270}=\frac{4}{3}\ \mathrm{cm^2/min}$
+$A'=12aa'=12(30)\frac{1}{270}=\frac{4}{3}\ \mathrm{cm^2/min}$
 
 Differentiate surface area and substitute the edge-length rate. The final answer is four thirds square centimeters per minute.
 
@@ -716,7 +716,7 @@ $x=150-35t,\quad z=25t,\quad D^2=x^2+z^2$
 
 Measure t in hours after noon. Let x be the east west separation and z the north south separation. Before the ships pass east west, x decreases at thirty five kilometers per hour, while z increases at twenty five.
 
-$2DD\prime=2xx\prime+2zz\prime$
+$2DD'=2xx'+2zz'$
 
 The distance is the hypotenuse of a right triangle. Differentiate the squared distance equation with respect to time before substituting the time. Every changing quantity contributes its rate.
 
@@ -766,7 +766,7 @@ Divide by secant squared to obtain zero point one two eight radians per second. 
 
 ## Problem 47: Related rates: a lengthening shadow
 
-$h=400\ \mathrm{ft},\quad \theta\prime=-0.25\ \mathrm{rad/h}$
+$h=400\ \mathrm{ft},\quad \theta'=-0.25\ \mathrm{rad/h}$
 
 The building height is constant. The sun angle is decreasing, so its signed rate is negative one quarter radian per hour. Let L be the shadow length.
 
@@ -774,17 +774,17 @@ $\tan\theta=\frac{400}{L}\quad\Rightarrow\quad L=400\cot\theta$
 
 Use the right triangle: opposite over adjacent equals tangent. Solving for shadow length gives four hundred cotangent theta.
 
-$L\prime=-400\csc^2\theta\,\theta\prime$
+$L'=-400\csc^2\theta\,\theta'$
 
 Differentiate the cotangent expression. Its negative derivative multiplies the negative angle rate, so the shadow length increases.
 
-$\theta=\pi/6:\quad L\prime=-400(4)(-0.25)=400\ \mathrm{ft/h}$
+$\theta=\pi/6:\quad L'=-400(4)(-0.25)=400\ \mathrm{ft/h}$
 
 At pi over six, sine is one half, so cosecant squared is four. The shadow length is increasing at four hundred feet per hour.
 
 ## Problem 48: Linear approximation
 
-$f(x)=\sqrt{x},\quad a=16,\quad L(x)=f(a)+f\prime(a)(x-a)$
+$f(x)=\sqrt{x},\quad a=16,\quad L(x)=f(a)+f'(a)(x-a)$
 
 A tangent line gives a simple estimate near a known input. Choose sixteen because its square root is exactly four. The approximation uses the function value and slope at that easy point.
 
@@ -810,7 +810,7 @@ $f(x)=x^4,\quad a=2,\quad x=1.999,\quad \Delta x=-0.001$
 
 Choose the easy nearby input two, not one point nine. The change from two to one point nine nine nine is negative zero point zero zero one.
 
-$f(2)=16,\quad f\prime(2)=4(2)^3=32$
+$f(2)=16,\quad f'(2)=4(2)^3=32$
 
 The tangent approximation uses the exact function value sixteen and the slope thirty two at the base point.
 
@@ -862,15 +862,15 @@ The relative area error is about zero point zero zero six six seven, or zero poi
 
 ## Problem 52: True or false: constants and exponentials
 
-$(a)\quad y=e^2\Rightarrow y\prime=2e\qquad\mathrm{FALSE}$
+$(a)\quad y=e^2\Rightarrow y'=2e\qquad\mathrm{FALSE}$
 
 Part a is false. E squared is a constant, not e to the x. Its derivative with respect to x is zero. The proposed answer two e would come from treating the constant e as a variable.
 
-$(b)\quad (10^x)\prime=x10^{x-1}\qquad\mathrm{FALSE}$
+$(b)\quad (10^x)'=x10^{x-1}\qquad\mathrm{FALSE}$
 
 Part b is false. X is in the exponent, so use the exponential rule, not the constant exponent power rule. The correct derivative is ten to the x times natural log ten.
 
-$(c)\quad (\ln10)\prime=1/10\qquad\mathrm{FALSE}$
+$(c)\quad (\ln10)'=1/10\qquad\mathrm{FALSE}$
 
 Part c is false. Natural log ten is another constant, so its derivative is zero. The formula one over x applies to natural log x when x varies.
 
@@ -880,7 +880,7 @@ $(d)\quad f=(x^6-x^4)^5\Rightarrow f^{(31)}=0\qquad\mathrm{TRUE}$
 
 Part d is true. The polynomial has degree thirty, since the highest power is x to the thirtieth. Each derivative lowers its degree by one. After thirty one derivatives, every term is zero.
 
-$(e)\quad (\sqrt{f(x)})\prime=\frac{f\prime(x)}{2\sqrt{f(x)}}\quad\mathrm{when\ }f(x)>0$
+$(e)\quad (\sqrt{f(x)})'=\frac{f'(x)}{2\sqrt{f(x)}}\quad\mathrm{when\ }f(x)>0$
 
 Part e is the correct chain rule wherever f of x is positive. Under that usual domain assumption it is true. As literally stated with only differentiability of f, it needs a qualification: differentiability alone does not guarantee this formula exists.
 
@@ -890,33 +890,33 @@ For example, f of x equals x squared is differentiable everywhere, but the squar
 
 ## Problem 52: True or false: evaluating the chain rule
 
-$(f)\quad (f(\sqrt{x}))\prime=\frac{f\prime(x)}{2\sqrt{x}}\qquad\mathrm{FALSE}$
+$(f)\quad (f(\sqrt{x}))'=\frac{f'(x)}{2\sqrt{x}}\qquad\mathrm{FALSE}$
 
 Part f is false. The outside derivative must be evaluated at the inside input square root x, not at x.
 
-$\frac{d}{dx}f(\sqrt{x})=\frac{f\prime(\sqrt{x})}{2\sqrt{x}},\qquad x>0$
+$\frac{d}{dx}f(\sqrt{x})=\frac{f'(\sqrt{x})}{2\sqrt{x}},\qquad x>0$
 
 The correct formula has f prime of square root x in the numerator. If f of u is u squared, the original composition is x and its derivative is one. The incorrect formula gives square root x, which is not always one.
 
-$(g)\quad (f+g)\prime=f\prime+g\prime\qquad\mathrm{TRUE}$
+$(g)\quad (f+g)'=f'+g'\qquad\mathrm{TRUE}$
 
 Part g is true. This is the sum rule: differentiate each summand separately.
 
 ## Problem 52: True or false: product versus composition
 
-$(h)\quad (fg)\prime=f\prime g\prime\qquad\mathrm{FALSE}$
+$(h)\quad (fg)'=f' g'\qquad\mathrm{FALSE}$
 
 Part h is false. The product rule is f prime times g, plus f times g prime. For a counterexample, let both functions equal x. The product is x squared and its derivative is two x, but multiplying the derivatives gives one.
 
-$(i)\quad (f(g(x)))\prime=f\prime(g(x))g\prime(x)\qquad\mathrm{TRUE}$
+$(i)\quad (f(g(x)))'=f'(g(x))g'(x)\qquad\mathrm{TRUE}$
 
 Part i is true. This is the chain rule, with the outside derivative evaluated at the unchanged inside function, then multiplied by the inside derivative.
 
-$(j)\quad (f(g(x)))\prime=f\prime(x)g\prime(x)\qquad\mathrm{FALSE}$
+$(j)\quad (f(g(x)))'=f'(x)g'(x)\qquad\mathrm{FALSE}$
 
 Part j is false. It uses the wrong input for f prime. Take f of u equal to u squared and g of x equal to x squared. The composition is x to the fourth, so its derivative is four x cubed, while the proposed expression is four x squared.
 
-## You have covered the entire guide
+## Closing review: You have covered the entire guide
 
 Practice again without looking at the next step
 

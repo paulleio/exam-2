@@ -1,0 +1,41 @@
+{
+  "problem_numbers": 52,
+  "lettered_subparts": "1(a-u), 52(a-j)",
+  "steps": 200,
+  "chapters": 62,
+  "minutes": 36.46,
+  "combined_bytes": 33313816,
+  "parts": [
+    {
+      "part": 1,
+      "minutes": 6.49,
+      "bytes": 5904515,
+      "decode": "passed"
+    },
+    {
+      "part": 2,
+      "minutes": 9.49,
+      "bytes": 8632064,
+      "decode": "passed"
+    },
+    {
+      "part": 3,
+      "minutes": 7.7,
+      "bytes": 6992935,
+      "decode": "passed"
+    },
+    {
+      "part": 4,
+      "minutes": 6.42,
+      "bytes": 5923329,
+      "decode": "passed"
+    },
+    {
+      "part": 5,
+      "minutes": 6.36,
+      "bytes": 5862317,
+      "decode": "passed"
+    }
+  ],
+  "decode": "all passed"
+}

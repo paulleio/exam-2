@@ -1,0 +1,2 @@
+Mathematics: 43 independent symbolic derivative, tangent, and motion checks passed; additional rates and approximation arithmetic passed. All 21 basic derivative-table entries independently checked. All 52 numbered problems present; problem 1(a-u) and 52(a-j) explicitly present. Source equations visually transcribed from all six pages.
+Part 1 loudness: -16.21 LUFS; true peak -0.94 dBTP.

@@ -1,0 +1,419 @@
+1
+00:00:00,000 --> 00:00:01,718
+Treat y as a function of x.
+
+2
+00:00:01,988 --> 00:00:08,327
+The middle term is a product of x squared and y squared, so it needs a product rule as well as a chain rule.
+
+3
+00:00:09,447 --> 00:00:12,803
+The derivative of y to the fifth includes y prime.
+
+4
+00:00:13,073 --> 00:00:18,425
+In the middle term, differentiate x squared for one term and y squared for the other.
+
+5
+00:00:18,695 --> 00:00:21,423
+The constant twelve differentiates to zero.
+
+6
+00:00:22,543 --> 00:00:25,724
+Collect the terms containing y prime on one side.
+
+7
+00:00:25,994 --> 00:00:30,336
+Factor out y prime, then move the remaining terms to the other side.
+
+8
+00:00:31,456 --> 00:00:35,682
+Divide by the coefficient of y prime, wherever it is nonzero.
+
+9
+00:00:35,952 --> 00:00:41,421
+This gives the slope along the implicit curve at points where that expression defines a derivative.
+
+10
+00:00:42,541 --> 00:00:44,840
+Here y is an unknown function of x.
+
+11
+00:00:45,110 --> 00:00:51,804
+Differentiate both sides with respect to x, and attach y prime whenever the chain rule differentiates a y
+
+12
+00:00:51,804 --> 00:00:52,505
+expression.
+
+13
+00:00:53,625 --> 00:00:57,921
+The derivative of y to the fourth is four y cubed times y prime.
+
+14
+00:00:58,191 --> 00:00:59,514
+Solve for y prime.
+
+15
+00:00:59,784 --> 00:01:06,392
+This formula requires y to be nonzero; it describes the slope where the curve is locally a differentiable
+
+16
+00:01:06,392 --> 00:01:07,273
+function of x.
+
+17
+00:01:08,393 --> 00:01:14,186
+For the second derivative, write y prime as negative x cubed times y to the negative third power.
+
+18
+00:01:14,456 --> 00:01:18,740
+Apply the product rule, and again use the chain rule on the y factor.
+
+19
+00:01:19,860 --> 00:01:23,726
+Substitute negative x cubed over y cubed for y prime.
+
+20
+00:01:23,996 --> 00:01:25,970
+The second term becomes negative.
+
+21
+00:01:26,240 --> 00:01:30,594
+A second derivative should not still contain an unexplained y prime here.
+
+22
+00:01:31,714 --> 00:01:33,026
+Combine the fractions.
+
+23
+00:01:33,296 --> 00:01:39,670
+The original equation says x to the fourth plus y to the fourth is sixteen, so the numerator simplifies.
+
+24
+00:01:39,940 --> 00:01:44,166
+Reusing the original relationship often makes implicit answers much cleaner.
+
+25
+00:01:45,286 --> 00:01:47,642
+We could use an implicit quotient rule.
+
+26
+00:01:47,912 --> 00:01:51,906
+A simpler option is to multiply by the nonzero denominator first.
+
+27
+00:01:52,176 --> 00:01:55,961
+Keep its restriction because multiplying can hide an excluded point.
+
+28
+00:01:57,081 --> 00:02:01,597
+Expand the right side, move its y term to the left, and factor y.
+
+29
+00:02:01,867 --> 00:02:03,992
+Now we can solve explicitly.
+
+30
+00:02:05,112 --> 00:02:09,361
+The new denominator x squared plus two never vanishes for real x.
+
+31
+00:02:09,631 --> 00:02:16,796
+But the original denominator equals x over x squared plus two, so the original equation excludes x equal to
+
+32
+00:02:16,796 --> 00:02:17,131
+zero.
+
+33
+00:02:18,251 --> 00:02:21,421
+Differentiate the explicit quotient and simplify.
+
+34
+00:02:21,691 --> 00:02:27,902
+The original curve still excludes zero, even though the simplified derivative expression has a value there.
+
+35
+00:02:29,022 --> 00:02:30,717
+Both terms are products.
+
+36
+00:02:30,987 --> 00:02:35,167
+Cosine y also needs the chain rule because y depends on x.
+
+37
+00:02:36,287 --> 00:02:39,689
+Differentiate x cosine y with the product rule.
+
+38
+00:02:39,959 --> 00:02:43,453
+Differentiate y cosine x with another product rule.
+
+39
+00:02:43,723 --> 00:02:47,241
+Notice which derivatives create y prime and which do not.
+
+40
+00:02:48,361 --> 00:02:50,126
+Collect y prime terms.
+
+41
+00:02:50,396 --> 00:02:54,262
+Move the other terms to the opposite side, keeping both signs.
+
+42
+00:02:55,382 --> 00:02:58,842
+Divide by the remaining coefficient where it is nonzero.
+
+43
+00:02:59,112 --> 00:03:05,694
+Keeping the implicit variables in the answer is expected; there is no need to solve the original equation for y.
+
+44
+00:03:06,814 --> 00:03:12,956
+Both the base and exponent depend on x, so the ordinary constant exponent power rule does not apply.
+
+45
+00:03:13,226 --> 00:03:19,287
+We work where the base is positive, giving a real logarithm and the usual smooth variable power.
+
+46
+00:03:20,407 --> 00:03:23,146
+Take natural logarithms of both sides.
+
+47
+00:03:23,416 --> 00:03:25,553
+The exponent comes down in front.
+
+48
+00:03:25,823 --> 00:03:30,594
+This turns a difficult variable power into a product that we know how to differentiate.
+
+49
+00:03:31,714 --> 00:03:34,489
+The left side becomes y prime over y.
+
+50
+00:03:34,759 --> 00:03:37,000
+On the right, use the product rule.
+
+51
+00:03:37,270 --> 00:03:42,761
+The logarithm also needs the chain rule, producing six x squared over the inside.
+
+52
+00:03:43,881 --> 00:03:47,643
+Multiply by y, then replace y with the original function.
+
+53
+00:03:47,913 --> 00:03:51,048
+Forgetting this final multiplication is a common mistake.
+
+54
+00:03:51,318 --> 00:03:56,612
+Logarithmic differentiation is especially useful when a variable appears in the exponent.
+
+55
+00:03:57,732 --> 00:04:02,585
+Both base and exponent vary, so use logarithmic differentiation again.
+
+56
+00:04:02,855 --> 00:04:06,918
+Work where tangent x is positive so the real logarithm is defined.
+
+57
+00:04:08,038 --> 00:04:11,278
+Take a logarithm and bring the sine x exponent in front.
+
+58
+00:04:11,548 --> 00:04:13,579
+The right side is now a product.
+
+59
+00:04:14,699 --> 00:04:16,859
+Differentiate with the product rule.
+
+60
+00:04:17,129 --> 00:04:21,424
+The logarithm of tangent has derivative secant squared divided by tangent.
+
+61
+00:04:22,544 --> 00:04:24,518
+Multiply by the original y.
+
+62
+00:04:24,788 --> 00:04:32,093
+The second term inside the brackets simplifies to secant x because sine x times secant squared x divided by
+
+63
+00:04:32,093 --> 00:04:34,482
+tangent x equals one over cosine x.
+
+64
+00:04:35,602 --> 00:04:38,366
+A tangent line needs the point and its slope.
+
+65
+00:04:38,636 --> 00:04:43,164
+Check the point: six divided by three is two, so it lies on the graph.
+
+66
+00:04:44,284 --> 00:04:48,730
+Differentiate with the quotient rule, then evaluate at x equal to six.
+
+67
+00:04:49,000 --> 00:04:51,183
+The derivative gives the tangent slope.
+
+68
+00:04:52,303 --> 00:04:59,071
+Use point-slope form, y minus the given y coordinate equals the slope times x minus the given x coordinate.
+
+69
+00:04:59,341 --> 00:05:02,604
+This form is already a complete tangent-line equation.
+
+70
+00:05:03,724 --> 00:05:08,890
+At pi over six, sine is one half, so twice sine equals the given height one.
+
+71
+00:05:10,010 --> 00:05:12,239
+The derivative of sine is cosine.
+
+72
+00:05:12,509 --> 00:05:18,814
+Cosine pi over six is square root three over two, so multiplying by two gives square root three.
+
+73
+00:05:19,934 --> 00:05:23,092
+Substitute the point and slope into point-slope form.
+
+74
+00:05:23,362 --> 00:05:26,125
+Keep pi over six exact instead of rounding it.
+
+75
+00:05:27,245 --> 00:05:29,660
+The angle in the cosine term is two x.
+
+76
+00:05:29,930 --> 00:05:33,912
+That inside factor will contribute a two when we differentiate.
+
+77
+00:05:35,032 --> 00:05:37,029
+Differentiate sine normally.
+
+78
+00:05:37,299 --> 00:05:42,465
+Cosine two x becomes negative sine two x, times the inside derivative two.
+
+79
+00:05:43,585 --> 00:05:48,078
+At x equal to pi over six, the doubled angle is pi over three.
+
+80
+00:05:48,348 --> 00:05:52,063
+Both trigonometric values here are square root three over two.
+
+81
+00:05:53,183 --> 00:05:55,796
+Use the negative slope with the given point.
+
+82
+00:05:56,066 --> 00:05:58,864
+Do not forget the factor two from the doubled angle.
+
+83
+00:05:59,984 --> 00:06:03,037
+Rewrite the quotient as a product with a negative exponent.
+
+84
+00:06:03,307 --> 00:06:07,127
+This lets the product and chain rules handle the derivative cleanly.
+
+85
+00:06:08,247 --> 00:06:15,387
+The derivative of the second factor is negative five times the inside to the negative six, times negative two x.
+
+86
+00:06:15,657 --> 00:06:17,677
+The two negative signs cancel.
+
+87
+00:06:18,797 --> 00:06:20,481
+Use a common denominator.
+
+88
+00:06:20,751 --> 00:06:25,754
+Three minus x squared plus ten x squared becomes three plus nine x squared.
+
+89
+00:06:26,024 --> 00:06:30,610
+At x equal to two, the denominator is one and the numerator is thirty nine.
+
+90
+00:06:31,730 --> 00:06:34,842
+The tangent line is steep and increasing at this point.
+
+91
+00:06:35,112 --> 00:06:39,222
+Use y plus two because the given y coordinate is negative two.
+
+92
+00:06:40,342 --> 00:06:44,870
+This curve is implicit, so find the slope with implicit differentiation.
+
+93
+00:06:45,140 --> 00:06:50,620
+The point satisfies the equation: twenty five sixteenths minus nine sixteenths equals one.
+
+94
+00:06:51,740 --> 00:06:53,864
+Differentiate both squares.
+
+95
+00:06:54,134 --> 00:06:56,294
+The y square needs y prime.
+
+96
+00:06:56,564 --> 00:06:59,513
+Solve the resulting linear equation for y prime.
+
+97
+00:07:00,633 --> 00:07:03,709
+Evaluate both x and y at the given point.
+
+98
+00:07:03,979 --> 00:07:07,590
+An implicit derivative usually depends on both coordinates.
+
+99
+00:07:08,710 --> 00:07:11,996
+Substitute the point and slope into point-slope form.
+
+100
+00:07:12,266 --> 00:07:16,689
+The x expression is x plus five because the x coordinate is negative five.
+
+101
+00:07:17,809 --> 00:07:21,872
+We need a product rule on the right and an implicit chain rule on the left.
+
+102
+00:07:22,992 --> 00:07:27,474
+The first right-hand term differentiates x cubed and keeps two minus x.
+
+103
+00:07:27,744 --> 00:07:31,204
+The second keeps x cubed and multiplies by negative one.
+
+104
+00:07:32,324 --> 00:07:34,622
+At one comma one, the slope is one.
+
+105
+00:07:34,892 --> 00:07:40,883
+Point-slope form gives y minus one equals x minus one, so the tangent is y equals x.

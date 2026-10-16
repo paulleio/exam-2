@@ -1,0 +1,351 @@
+1
+00:00:00,000 --> 00:00:03,634
+A tangent line gives a simple estimate near a known input.
+
+2
+00:00:03,904 --> 00:00:07,027
+Choose sixteen because its square root is exactly four.
+
+3
+00:00:07,297 --> 00:00:11,384
+The approximation uses the function value and slope at that easy point.
+
+4
+00:00:12,504 --> 00:00:16,045
+The square root derivative is one over two square root x.
+
+5
+00:00:16,315 --> 00:00:18,753
+At sixteen, the slope is one eighth.
+
+6
+00:00:19,023 --> 00:00:23,597
+This slope converts a small input change into an estimated output change.
+
+7
+00:00:24,717 --> 00:00:26,250
+Build the tangent line.
+
+8
+00:00:26,520 --> 00:00:30,514
+The change in x must be measured from sixteen, not from zero.
+
+9
+00:00:30,784 --> 00:00:35,996
+This is an approximation to the square root function, rather than a new exact formula for it.
+
+10
+00:00:37,116 --> 00:00:40,123
+The input increases by zero point zero one.
+
+11
+00:00:40,393 --> 00:00:43,145
+Divide this change by eight and add four.
+
+12
+00:00:43,415 --> 00:00:46,643
+Our estimate is four point zero zero one two five.
+
+13
+00:00:47,763 --> 00:00:52,743
+The square root curve is concave down, so its tangent line lies above the curve.
+
+14
+00:00:53,013 --> 00:00:55,126
+Our estimate is slightly too high.
+
+15
+00:00:55,396 --> 00:01:00,214
+The actual value is about four point zero zero one two four nine eight.
+
+16
+00:01:00,484 --> 00:01:04,374
+The approximation works well because the input is close to sixteen.
+
+17
+00:01:05,494 --> 00:01:09,162
+Choose the easy nearby input two, not one point nine.
+
+18
+00:01:09,432 --> 00:01:14,506
+The change from two to one point nine nine nine is negative zero point zero zero one.
+
+19
+00:01:15,626 --> 00:01:21,710
+The tangent approximation uses the exact function value sixteen and the slope thirty two at the base point.
+
+20
+00:01:22,830 --> 00:01:26,626
+Multiply slope by input change and add the base value.
+
+21
+00:01:26,896 --> 00:01:33,409
+Because x to the fourth is concave up near two, the tangent estimate is slightly below the exact value.
+
+22
+00:01:34,529 --> 00:01:38,407
+A differential is d y equals the derivative times d x.
+
+23
+00:01:38,677 --> 00:01:44,076
+It gives the linearized output change, rather than the exact change in the function.
+
+24
+00:01:45,196 --> 00:01:50,223
+Differentiate the polynomial, keeping the constant term derivative equal to zero.
+
+25
+00:01:51,343 --> 00:01:56,033
+Evaluate the derivative at the given x before multiplying by the given d x.
+
+26
+00:01:56,303 --> 00:01:58,974
+The requested differential is zero point eight.
+
+27
+00:02:00,094 --> 00:02:03,890
+Use differentials to estimate how an edge measurement error propagates.
+
+28
+00:02:04,160 --> 00:02:08,421
+We want the magnitude of the possible error, so use absolute values.
+
+29
+00:02:09,541 --> 00:02:13,767
+The derivative of cube volume with respect to its edge is three a squared.
+
+30
+00:02:14,037 --> 00:02:20,315
+Multiplying by the maximum edge error gives an estimated maximum volume error of two hundred seventy cubic
+
+31
+00:02:20,315 --> 00:02:21,026
+centimeters.
+
+32
+00:02:22,146 --> 00:02:26,546
+Relative error divides the estimated absolute error by the computed volume.
+
+33
+00:02:26,816 --> 00:02:29,963
+It is zero point zero one, which is one percent.
+
+34
+00:02:30,233 --> 00:02:34,482
+Differential estimates are first-order estimates, not exact error bounds.
+
+35
+00:02:35,602 --> 00:02:40,141
+For part b, use the surface-area formula instead of the volume formula.
+
+36
+00:02:40,411 --> 00:02:42,130
+The derivative is twelve a.
+
+37
+00:02:43,250 --> 00:02:47,975
+The estimated maximum surface-area error is thirty six square centimeters.
+
+38
+00:02:48,245 --> 00:02:50,497
+The units are area units this time.
+
+39
+00:02:51,617 --> 00:02:58,548
+The relative area error is about zero point zero zero six six seven, or zero point six six seven percent.
+
+40
+00:02:58,818 --> 00:03:04,956
+The relative volume error is three times the relative edge error; the relative area error is twice the relative
+
+41
+00:03:04,956 --> 00:03:05,564
+edge error.
+
+42
+00:03:06,684 --> 00:03:08,019
+Part a is false.
+
+43
+00:03:08,289 --> 00:03:11,296
+E squared is a constant, not e to the x.
+
+44
+00:03:11,566 --> 00:03:14,515
+Its derivative with respect to x is zero.
+
+45
+00:03:14,785 --> 00:03:19,046
+The proposed answer two e would come from treating the constant e as a variable.
+
+46
+00:03:20,166 --> 00:03:21,629
+Part b is false.
+
+47
+00:03:21,899 --> 00:03:27,553
+X is in the exponent, so use the exponential rule, not the constant exponent power rule.
+
+48
+00:03:27,823 --> 00:03:31,724
+The correct derivative is ten to the x times natural log ten.
+
+49
+00:03:32,844 --> 00:03:34,306
+Part c is false.
+
+50
+00:03:34,576 --> 00:03:38,768
+Natural log ten is another constant, so its derivative is zero.
+
+51
+00:03:39,038 --> 00:03:43,473
+The formula one over x applies to natural log x when x varies.
+
+52
+00:03:44,593 --> 00:03:45,847
+Part d is true.
+
+53
+00:03:46,117 --> 00:03:50,540
+The polynomial has degree thirty, since the highest power is x to the thirtieth.
+
+54
+00:03:50,810 --> 00:03:53,341
+Each derivative lowers its degree by one.
+
+55
+00:03:53,611 --> 00:03:56,815
+After thirty one derivatives, every term is zero.
+
+56
+00:03:57,935 --> 00:04:01,859
+Part e is the correct chain rule wherever f of x is positive.
+
+57
+00:04:02,129 --> 00:04:05,009
+Under that usual domain assumption it is true.
+
+58
+00:04:05,279 --> 00:04:12,394
+As literally stated with only differentiability of f, it needs a qualification: differentiability alone does not
+
+59
+00:04:12,394 --> 00:04:14,300
+guarantee this formula exists.
+
+60
+00:04:15,420 --> 00:04:22,983
+For example, f of x equals x squared is differentiable everywhere, but the square root of f is absolute x, which
+
+61
+00:04:22,983 --> 00:04:25,009
+is not differentiable at zero.
+
+62
+00:04:25,279 --> 00:04:28,832
+This explains why the positive-inside condition matters.
+
+63
+00:04:29,952 --> 00:04:31,450
+Part f is false.
+
+64
+00:04:31,720 --> 00:04:37,513
+The outside derivative must be evaluated at the inside input square root x, not at x.
+
+65
+00:04:38,633 --> 00:04:42,894
+The correct formula has f prime of square root x in the numerator.
+
+66
+00:04:43,164 --> 00:04:48,656
+If f of u is u squared, the original composition is x and its derivative is one.
+
+67
+00:04:48,926 --> 00:04:53,337
+The incorrect formula gives square root x, which is not always one.
+
+68
+00:04:54,457 --> 00:04:55,746
+Part g is true.
+
+69
+00:04:56,016 --> 00:04:59,929
+This is the sum rule: differentiate each summand separately.
+
+70
+00:05:01,049 --> 00:05:02,453
+Part h is false.
+
+71
+00:05:02,723 --> 00:05:07,414
+The product rule is f prime times g, plus f times g prime.
+
+72
+00:05:07,684 --> 00:05:11,062
+For a counterexample, let both functions equal x.
+
+73
+00:05:11,332 --> 00:05:17,161
+The product is x squared and its derivative is two x, but multiplying the derivatives gives one.
+
+74
+00:05:18,281 --> 00:05:19,511
+Part i is true.
+
+75
+00:05:19,781 --> 00:05:26,585
+This is the chain rule, with the outside derivative evaluated at the unchanged inside function, then multiplied
+
+76
+00:05:26,585 --> 00:05:28,117
+by the inside derivative.
+
+77
+00:05:29,237 --> 00:05:30,503
+Part j is false.
+
+78
+00:05:30,773 --> 00:05:33,524
+It uses the wrong input for f prime.
+
+79
+00:05:33,794 --> 00:05:37,765
+Take f of u equal to u squared and g of x equal to x squared.
+
+80
+00:05:38,035 --> 00:05:44,680
+The composition is x to the fourth, so its derivative is four x cubed, while the proposed expression is four x
+
+81
+00:05:44,680 --> 00:05:45,163
+squared.
+
+82
+00:05:46,283 --> 00:05:50,997
+We have now covered all fifty two numbered problems, including every lettered subpart.
+
+83
+00:05:51,267 --> 00:05:58,064
+For a second pass, pause after each problem statement, solve it on paper, and use the next reveals to find the
+
+84
+00:05:58,064 --> 00:06:00,288
+first point where your work differs.
+
+85
+00:06:01,408 --> 00:06:07,236
+Your final checks are structure, chain-rule factors, signs, domain restrictions, and units.
+
+86
+00:06:07,506 --> 00:06:11,233
+For motion, compare velocity and acceleration signs.
+
+87
+00:06:11,503 --> 00:06:15,520
+For rates, differentiate before substituting changing values.
+
+88
+00:06:15,790 --> 00:06:20,539
+For tangent lines and approximations, evaluate the slope at the given base point.

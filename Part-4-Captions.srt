@@ -1,0 +1,359 @@
+1
+00:00:00,000 --> 00:00:02,368
+Position tells us where the particle is.
+
+2
+00:00:02,638 --> 00:00:05,320
+Velocity is the derivative of position.
+
+3
+00:00:05,590 --> 00:00:08,365
+Acceleration is the derivative of velocity.
+
+4
+00:00:08,635 --> 00:00:11,665
+Speed is the absolute value of velocity.
+
+5
+00:00:12,785 --> 00:00:15,572
+Differentiate position and factor the result.
+
+6
+00:00:15,842 --> 00:00:21,740
+The particle is at rest when velocity is zero, so the rest times are one second and two seconds.
+
+7
+00:00:22,860 --> 00:00:24,578
+Differentiate velocity.
+
+8
+00:00:24,848 --> 00:00:27,948
+Acceleration is zero at one point five seconds.
+
+9
+00:00:28,218 --> 00:00:34,058
+That does not mean the particle is at rest: its velocity there is negative one point five feet per second.
+
+10
+00:00:35,178 --> 00:00:42,612
+To determine speeding up, compare the signs of velocity and acceleration on intervals separated by one, one
+
+11
+00:00:42,612 --> 00:00:44,001
+point five, and two.
+
+12
+00:00:44,271 --> 00:00:47,185
+Do not decide from the sign of acceleration alone.
+
+13
+00:00:48,305 --> 00:00:52,253
+Velocity has signs positive, negative, negative, positive.
+
+14
+00:00:52,523 --> 00:00:56,760
+Acceleration has signs negative, negative, positive, positive.
+
+15
+00:00:57,030 --> 00:01:01,024
+Matching signs increase speed; opposite signs decrease speed.
+
+16
+00:01:02,144 --> 00:01:07,241
+The particle speeds up between one and one point five seconds, and after two seconds.
+
+17
+00:01:07,511 --> 00:01:12,410
+It slows down between zero and one, and between one point five and two.
+
+18
+00:01:12,680 --> 00:01:16,674
+These are open intervals; transition instants are handled separately.
+
+19
+00:01:17,794 --> 00:01:22,113
+Problem forty one asks the same five motion questions as problem forty.
+
+20
+00:01:22,383 --> 00:01:25,425
+Start with velocity, the derivative of position.
+
+21
+00:01:26,545 --> 00:01:29,029
+Factor the velocity to find the rest times.
+
+22
+00:01:29,299 --> 00:01:32,539
+Velocity is zero at one half second and one second.
+
+23
+00:01:32,809 --> 00:01:34,910
+Its units are feet per second.
+
+24
+00:01:36,030 --> 00:01:40,326
+Differentiate velocity to find acceleration in feet per second squared.
+
+25
+00:01:40,596 --> 00:01:43,254
+It changes sign at three quarters of a second.
+
+26
+00:01:44,374 --> 00:01:48,577
+Partition the allowed time line at one half, three quarters, and one.
+
+27
+00:01:48,847 --> 00:01:52,737
+Test the signs of velocity and acceleration in each open interval.
+
+28
+00:01:53,857 --> 00:01:58,489
+As in problem forty, the signs are opposite, matching, opposite, matching.
+
+29
+00:01:58,759 --> 00:02:04,541
+A negative velocity with a negative acceleration means the particle is speeding up in the negative direction.
+
+30
+00:02:05,661 --> 00:02:10,874
+The particle slows down before one half second and between three quarters and one second.
+
+31
+00:02:11,144 --> 00:02:15,416
+It speeds up between one half and three quarters, and after one second.
+
+32
+00:02:15,686 --> 00:02:18,345
+This completes all five requested parts.
+
+33
+00:02:19,465 --> 00:02:22,263
+The cylinder radius is fixed at five meters.
+
+34
+00:02:22,533 --> 00:02:27,026
+This is why we can replace pi r squared with the constant twenty five pi.
+
+35
+00:02:28,146 --> 00:02:30,386
+Differentiate with respect to time.
+
+36
+00:02:30,656 --> 00:02:32,131
+Only h changes.
+
+37
+00:02:32,401 --> 00:02:36,267
+There is no radius-rate term because the radius is constant.
+
+38
+00:02:37,387 --> 00:02:40,499
+Substitute the incoming volume rate and divide.
+
+39
+00:02:40,769 --> 00:02:45,111
+The water height rises at about zero point zero three eight two meters per minute.
+
+40
+00:02:46,231 --> 00:02:47,914
+Let a be the changing edge length.
+
+41
+00:02:48,184 --> 00:02:53,362
+Both volume and surface area depend on a, so use a as the bridge between their rates.
+
+42
+00:02:54,482 --> 00:02:58,186
+Differentiate the volume and use edge length thirty centimeters.
+
+43
+00:02:58,456 --> 00:03:02,287
+This gives the edge-length rate, not the requested area rate yet.
+
+44
+00:03:03,407 --> 00:03:07,215
+Differentiate surface area and substitute the edge-length rate.
+
+45
+00:03:07,485 --> 00:03:10,806
+The final answer is four thirds square centimeters per minute.
+
+46
+00:03:11,926 --> 00:03:13,957
+Measure t in hours after noon.
+
+47
+00:03:14,227 --> 00:03:18,546
+Let x be the east west separation and z the north south separation.
+
+48
+00:03:18,816 --> 00:03:25,840
+Before the ships pass east west, x decreases at thirty five kilometers per hour, while z increases at twenty
+
+49
+00:03:25,840 --> 00:03:26,165
+five.
+
+50
+00:03:27,285 --> 00:03:30,350
+The distance is the hypotenuse of a right triangle.
+
+51
+00:03:30,620 --> 00:03:36,089
+Differentiate the squared distance equation with respect to time before substituting the time.
+
+52
+00:03:36,359 --> 00:03:38,994
+Every changing quantity contributes its rate.
+
+53
+00:03:40,114 --> 00:03:42,726
+At four p m, four hours have passed.
+
+54
+00:03:42,996 --> 00:03:48,140
+The horizontal separation is ten kilometers, and the vertical separation is one hundred.
+
+55
+00:03:48,410 --> 00:03:51,568
+Use these current values, not the noon separation.
+
+56
+00:03:52,688 --> 00:03:56,205
+Divide by D and substitute both rates with their signs.
+
+57
+00:03:56,475 --> 00:04:02,774
+The result is positive, about twenty one point three nine kilometers per hour, so the ships are moving farther
+
+58
+00:04:02,774 --> 00:04:04,033
+apart at that instant.
+
+59
+00:04:05,153 --> 00:04:08,753
+The cone has total radius two meters and height four meters.
+
+60
+00:04:09,023 --> 00:04:11,797
+Water enters at two cubic meters per minute.
+
+61
+00:04:12,067 --> 00:04:16,468
+Unlike a cylinder, the water surface radius changes as the water rises.
+
+62
+00:04:17,588 --> 00:04:21,976
+Use similar triangles to replace the changing radius with h over two.
+
+63
+00:04:22,246 --> 00:04:26,449
+Substitute this relationship into the volume formula before differentiating.
+
+64
+00:04:26,719 --> 00:04:29,970
+Now volume depends on just one unknown changing length.
+
+65
+00:04:31,090 --> 00:04:33,354
+Differentiate with respect to time.
+
+66
+00:04:33,624 --> 00:04:38,395
+The derivative of h cubed is three h squared times d h over d t.
+
+67
+00:04:38,665 --> 00:04:41,336
+The factor of three reduces twelve to four.
+
+68
+00:04:42,456 --> 00:04:45,846
+Now substitute a water depth of three meters and solve.
+
+69
+00:04:46,116 --> 00:04:49,877
+The height rises at about zero point two eight three meters per minute.
+
+70
+00:04:50,147 --> 00:04:55,035
+Check the units: a height rate uses meters per minute, not cubic meters per minute.
+
+71
+00:04:56,155 --> 00:04:59,777
+Let x be distance along the path from the point nearest the light.
+
+72
+00:05:00,047 --> 00:05:03,078
+Let theta be the angle from the perpendicular to the path.
+
+73
+00:05:03,348 --> 00:05:08,503
+The perpendicular distance is twenty feet, so tangent theta equals x over twenty.
+
+74
+00:05:08,773 --> 00:05:11,582
+We take x increasing as the man walks away.
+
+75
+00:05:12,702 --> 00:05:15,013
+Differentiate with respect to time.
+
+76
+00:05:15,283 --> 00:05:20,484
+The angle changes, so the derivative of tangent includes d theta over d t.
+
+77
+00:05:21,604 --> 00:05:25,365
+At the requested position, tangent theta is three quarters.
+
+78
+00:05:25,635 --> 00:05:32,474
+The identity secant squared equals one plus tangent squared avoids needing to calculate the angle itself.
+
+79
+00:05:33,594 --> 00:05:38,400
+Divide by secant squared to obtain zero point one two eight radians per second.
+
+80
+00:05:38,670 --> 00:05:40,888
+This is the rotation-rate magnitude.
+
+81
+00:05:41,158 --> 00:05:46,289
+If the man were approaching the nearest point, the signed angle rate would be negative instead.
+
+82
+00:05:47,409 --> 00:05:49,174
+The building height is constant.
+
+83
+00:05:49,444 --> 00:05:54,402
+The sun angle is decreasing, so its signed rate is negative one quarter radian per hour.
+
+84
+00:05:54,672 --> 00:05:56,285
+Let L be the shadow length.
+
+85
+00:05:57,405 --> 00:06:01,480
+Use the right triangle: opposite over adjacent equals tangent.
+
+86
+00:06:01,750 --> 00:06:05,315
+Solving for shadow length gives four hundred cotangent theta.
+
+87
+00:06:06,435 --> 00:06:08,826
+Differentiate the cotangent expression.
+
+88
+00:06:09,096 --> 00:06:14,797
+Its negative derivative multiplies the negative angle rate, so the shadow length increases.
+
+89
+00:06:15,917 --> 00:06:20,387
+At pi over six, sine is one half, so cosecant squared is four.
+
+90
+00:06:20,657 --> 00:06:23,954
+The shadow length is increasing at four hundred feet per hour.

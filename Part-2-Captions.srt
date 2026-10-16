@@ -1,0 +1,543 @@
+1
+00:00:00,000 --> 00:00:01,544
+Problem nine is a quotient.
+
+2
+00:00:01,814 --> 00:00:04,786
+The denominator changes, so we need the quotient rule.
+
+3
+00:00:05,056 --> 00:00:09,515
+The original function is defined only where one plus cosine x is not zero.
+
+4
+00:00:10,635 --> 00:00:16,904
+Use bottom times derivative of top, minus top times derivative of bottom, over bottom squared.
+
+5
+00:00:17,174 --> 00:00:19,937
+The derivative of cosine is negative sine.
+
+6
+00:00:20,207 --> 00:00:23,040
+Notice the two minus signs in the second product.
+
+7
+00:00:24,160 --> 00:00:26,296
+The double negative becomes a plus.
+
+8
+00:00:26,566 --> 00:00:30,247
+Now use sine squared plus cosine squared equals one.
+
+9
+00:00:30,517 --> 00:00:33,315
+This identity simplifies the numerator.
+
+10
+00:00:34,435 --> 00:00:37,291
+Cancel one factor of one plus cosine x.
+
+11
+00:00:37,561 --> 00:00:40,045
+Keep the restriction from the original function.
+
+12
+00:00:40,315 --> 00:00:44,193
+The most common error here is losing the minus sign in the quotient rule.
+
+13
+00:00:45,313 --> 00:00:48,355
+Problem ten is a product of two changing factors.
+
+14
+00:00:48,625 --> 00:00:51,202
+We cannot simply multiply their derivatives.
+
+15
+00:00:51,472 --> 00:00:54,781
+Name the first factor u and the second factor v.
+
+16
+00:00:55,901 --> 00:01:00,359
+The product rule is u prime times v, plus u times v prime.
+
+17
+00:01:00,629 --> 00:01:04,936
+Think: change one factor at a time, while keeping the other factor.
+
+18
+00:01:06,056 --> 00:01:08,506
+The derivative of the first factor is two.
+
+19
+00:01:08,776 --> 00:01:16,183
+For the logarithm, use the chain rule: the derivative of the inside, six x, divided by the original inside.
+
+20
+00:01:17,303 --> 00:01:19,416
+Substitute into the product rule.
+
+21
+00:01:19,686 --> 00:01:21,590
+Both terms are necessary.
+
+22
+00:01:21,860 --> 00:01:27,073
+You may leave the derivative in this factored form; expanding it does not make it more correct.
+
+23
+00:01:28,193 --> 00:01:31,908
+Problem eleven combines the product rule with two chain rules.
+
+24
+00:01:32,178 --> 00:01:37,159
+The superscript negative one means inverse tangent, not reciprocal tangent.
+
+25
+00:01:38,279 --> 00:01:41,251
+The exponential needs the inside derivative two.
+
+26
+00:01:41,521 --> 00:01:48,243
+Inverse tangent gives one over one plus its inside squared, multiplied by the inside derivative one half.
+
+27
+00:01:48,513 --> 00:01:51,520
+Simplifying gives two over x squared plus four.
+
+28
+00:01:52,640 --> 00:01:55,845
+Use the product rule and factor out e to the two x.
+
+29
+00:01:56,115 --> 00:02:00,097
+There are two terms inside the brackets because either factor can change.
+
+30
+00:02:01,217 --> 00:02:05,455
+Use the inverse sine derivative, not the ordinary sine derivative.
+
+31
+00:02:05,725 --> 00:02:08,267
+Name the inside x squared minus one.
+
+32
+00:02:09,387 --> 00:02:12,429
+Put the inside derivative two x in the numerator.
+
+33
+00:02:12,699 --> 00:02:16,844
+The denominator is square root of one minus the entire inside squared.
+
+34
+00:02:17,114 --> 00:02:20,144
+The formula applies where the denominator is positive.
+
+35
+00:02:21,264 --> 00:02:26,326
+The original inverse sine is real when absolute x is at most square root two.
+
+36
+00:02:26,596 --> 00:02:31,507
+The derivative formula requires the inside strictly between negative one and one.
+
+37
+00:02:31,777 --> 00:02:36,235
+Zero is excluded: the function has different one-sided slopes there.
+
+38
+00:02:37,355 --> 00:02:41,175
+Problem thirteen uses theta as the independent variable.
+
+39
+00:02:41,445 --> 00:02:43,999
+The rules are identical to the rules for x.
+
+40
+00:02:44,269 --> 00:02:46,881
+Treat the sum in parentheses as one factor.
+
+41
+00:02:48,001 --> 00:02:52,367
+Differentiate tangent for the first term and the parenthesized sum for the second.
+
+42
+00:02:52,637 --> 00:02:56,363
+The derivative of the sum is cosine theta minus sine theta.
+
+43
+00:02:57,483 --> 00:03:02,000
+For problem fourteen, divide the numerator into x minus one plus three.
+
+44
+00:03:02,270 --> 00:03:06,589
+This rewriting makes both derivatives easier and keeps x not equal to one.
+
+45
+00:03:07,709 --> 00:03:09,694
+One differentiates to zero.
+
+46
+00:03:09,964 --> 00:03:16,013
+Three times x minus one to the negative one becomes negative three times x minus one to the negative two.
+
+47
+00:03:17,133 --> 00:03:18,549
+Differentiate again.
+
+48
+00:03:18,819 --> 00:03:21,675
+Negative three times negative two gives six.
+
+49
+00:03:21,945 --> 00:03:25,893
+The inside derivative is one, so it adds no extra factor.
+
+50
+00:03:27,013 --> 00:03:28,522
+Use the product rule.
+
+51
+00:03:28,792 --> 00:03:32,449
+Both cosecant and cotangent have negative derivatives.
+
+52
+00:03:32,719 --> 00:03:35,447
+This problem is a useful test of sign tracking.
+
+53
+00:03:36,567 --> 00:03:40,991
+The first product contributes negative cosecant times cotangent squared.
+
+54
+00:03:41,261 --> 00:03:44,094
+The second contributes negative cosecant cubed.
+
+55
+00:03:45,214 --> 00:03:49,266
+For the second derivative, apply the product rule again to the first term.
+
+56
+00:03:49,536 --> 00:03:55,596
+Differentiating cotangent squared uses the chain rule and contributes a second positive term.
+
+57
+00:03:56,716 --> 00:04:02,347
+The derivative of negative cosecant cubed contributes another three cosecant cubed cotangent.
+
+58
+00:04:02,617 --> 00:04:05,531
+Combine that with the two already present to get five.
+
+59
+00:04:06,651 --> 00:04:08,845
+Differentiate with respect to u.
+
+60
+00:04:09,115 --> 00:04:14,096
+The top derivative is negative two u, and the bottom derivative is positive two u.
+
+61
+00:04:15,216 --> 00:04:18,176
+The quotient rule subtracts the second product.
+
+62
+00:04:18,446 --> 00:04:22,150
+Keep the parentheses so the minus sign applies to the entire product.
+
+63
+00:04:23,270 --> 00:04:26,405
+Expanding the numerator cancels the cubic terms.
+
+64
+00:04:26,675 --> 00:04:29,182
+The two linear terms add to negative four u.
+
+65
+00:04:29,452 --> 00:04:32,123
+The denominator never vanishes for real u.
+
+66
+00:04:33,243 --> 00:04:35,704
+Rewrite the square root as a one-half power.
+
+67
+00:04:35,974 --> 00:04:40,920
+The outer derivative must be multiplied by the derivative of the polynomial inside.
+
+68
+00:04:42,040 --> 00:04:44,826
+The inside derivative is two x minus seven.
+
+69
+00:04:45,096 --> 00:04:52,353
+The formula applies when x squared minus seven x is positive, meaning x less than zero or x greater than seven.
+
+70
+00:04:52,623 --> 00:04:55,920
+The endpoints do not have a finite two-sided derivative.
+
+71
+00:04:57,040 --> 00:04:59,919
+Multiply powers of x by adding exponents.
+
+72
+00:05:00,189 --> 00:05:06,563
+The first term has exponent one plus one half, and the reciprocal term has exponent negative two minus one half.
+
+73
+00:05:06,833 --> 00:05:08,865
+The real domain is x positive.
+
+74
+00:05:09,985 --> 00:05:12,144
+Use the power rule on each term.
+
+75
+00:05:12,414 --> 00:05:17,453
+This is simpler than using both a product rule and a quotient rule on the original expression.
+
+76
+00:05:18,573 --> 00:05:23,786
+Identify the outside power, three halves, and the inside t minus one over t.
+
+77
+00:05:24,056 --> 00:05:26,680
+The chain rule multiplies their derivatives.
+
+78
+00:05:27,800 --> 00:05:32,269
+The derivative of negative one over t is positive one over t squared.
+
+79
+00:05:32,539 --> 00:05:33,956
+Keep that plus sign.
+
+80
+00:05:34,226 --> 00:05:39,172
+This formula is used on the interior of the real domain where the inside is positive.
+
+81
+00:05:40,292 --> 00:05:42,904
+The whole polynomial is raised to the fourth power.
+
+82
+00:05:43,174 --> 00:05:45,821
+Keep it together while taking the outer derivative.
+
+83
+00:05:46,941 --> 00:05:50,087
+Bring down four and lower the outer exponent to three.
+
+84
+00:05:50,357 --> 00:05:55,152
+Then multiply by three x squared minus five, the derivative of the inside.
+
+85
+00:05:56,272 --> 00:05:59,883
+This is a product, and each factor also needs the chain rule.
+
+86
+00:06:00,153 --> 00:06:03,172
+Write two product-rule terms before simplifying.
+
+87
+00:06:04,292 --> 00:06:08,494
+The first factor differentiates to three times its square times twelve t.
+
+88
+00:06:08,764 --> 00:06:12,839
+The second differentiates to four times its cube times three t squared.
+
+89
+00:06:13,109 --> 00:06:15,373
+Keep the untouched factor in each term.
+
+90
+00:06:16,493 --> 00:06:18,374
+This factored form is optional.
+
+91
+00:06:18,644 --> 00:06:21,268
+Pull out the factors shared by both terms.
+
+92
+00:06:21,538 --> 00:06:25,776
+The unsimplified two-term version is also a complete correct derivative.
+
+93
+00:06:26,896 --> 00:06:29,287
+The independent variable is y here.
+
+94
+00:06:29,557 --> 00:06:34,016
+We need the chain rule for the outer cube and the quotient rule for the inside fraction.
+
+95
+00:06:35,136 --> 00:06:41,359
+The numerator simplifies to thirteen because y cancels and subtracting negative six adds six.
+
+96
+00:06:42,479 --> 00:06:46,612
+Multiply the derivative of the outer cube by the derivative of the inside.
+
+97
+00:06:46,882 --> 00:06:49,819
+Combining the denominator powers gives a fourth power.
+
+98
+00:06:50,089 --> 00:06:51,993
+Y cannot be negative seven.
+
+99
+00:06:53,113 --> 00:06:58,709
+There are multiple layers here: a square root outside, and two exponentials inside.
+
+100
+00:06:58,979 --> 00:07:01,928
+Differentiate the entire expression under the radical.
+
+101
+00:07:03,048 --> 00:07:05,242
+The first exponent contributes four.
+
+102
+00:07:05,512 --> 00:07:08,090
+The second exponent contributes two x.
+
+103
+00:07:08,360 --> 00:07:10,600
+Keep the subtraction between the terms.
+
+104
+00:07:11,720 --> 00:07:15,633
+Divide the inside derivative by twice the original square root.
+
+105
+00:07:15,903 --> 00:07:20,675
+For a finite derivative this requires the expression under the radical to be positive.
+
+106
+00:07:20,945 --> 00:07:23,928
+Here that means zero less than x less than four.
+
+107
+00:07:25,048 --> 00:07:27,835
+The powers apply to the trigonometric values.
+
+108
+00:07:28,105 --> 00:07:31,390
+Sine cubed x means sine x, all cubed.
+
+109
+00:07:31,660 --> 00:07:34,041
+Differentiate each cube with the chain rule.
+
+110
+00:07:35,161 --> 00:07:38,736
+The sine term contributes cosine as its inside derivative.
+
+111
+00:07:39,006 --> 00:07:43,372
+The cosine term contributes negative sine, which creates the minus sign.
+
+112
+00:07:44,492 --> 00:07:48,369
+Factor out three sine x cosine x if you want a compact answer.
+
+113
+00:07:48,639 --> 00:07:51,240
+Both forms describe the same derivative.
+
+114
+00:07:52,360 --> 00:07:56,644
+Problem twenty five means the square of sine of cosine of k x.
+
+115
+00:07:56,914 --> 00:07:58,273
+Treat k as a constant.
+
+116
+00:07:58,543 --> 00:08:00,899
+Work from the outside toward the inside.
+
+117
+00:08:02,019 --> 00:08:04,109
+The outermost operation is squaring.
+
+118
+00:08:04,379 --> 00:08:10,509
+Its derivative is two times the unchanged sine, multiplied by the derivative of that sine.
+
+119
+00:08:11,629 --> 00:08:15,310
+The derivative of sine u is cosine u times u prime.
+
+120
+00:08:15,580 --> 00:08:19,097
+We still owe a derivative for the cosine layer and for k x.
+
+121
+00:08:20,217 --> 00:08:22,795
+Cosine differentiates to negative sine.
+
+122
+00:08:23,065 --> 00:08:25,921
+Then the inside k x differentiates to k.
+
+123
+00:08:26,191 --> 00:08:28,954
+Every changing layer contributes one factor.
+
+124
+00:08:30,074 --> 00:08:31,804
+Put the layers back together.
+
+125
+00:08:32,074 --> 00:08:35,754
+Read the factors from outside to inside to check that none is missing.
+
+126
+00:08:36,024 --> 00:08:39,856
+In particular, remember both the negative sign and the factor k.
+
+127
+00:08:40,976 --> 00:08:45,109
+Use the product rule for x times hyperbolic sine of x squared.
+
+128
+00:08:45,379 --> 00:08:50,766
+Hyperbolic sine differentiates to hyperbolic cosine, with an additional inside derivative.
+
+129
+00:08:51,886 --> 00:08:53,767
+The derivative of x is one.
+
+130
+00:08:54,037 --> 00:08:59,621
+In the second term, keep x and multiply hyperbolic cosine of x squared by two x.
+
+131
+00:09:00,741 --> 00:09:02,343
+Combine the x factors.
+
+132
+00:09:02,613 --> 00:09:06,572
+There is no negative sign when differentiating hyperbolic sine.
+
+133
+00:09:07,692 --> 00:09:13,068
+For a logarithm of a function, differentiate the inside and divide by the original inside.
+
+134
+00:09:13,338 --> 00:09:17,192
+Then use the chain rule again for hyperbolic cosine of three x.
+
+135
+00:09:18,312 --> 00:09:23,688
+Hyperbolic cosine differentiates to hyperbolic sine, and three x contributes three.
+
+136
+00:09:23,958 --> 00:09:28,114
+Hyperbolic sine divided by hyperbolic cosine is hyperbolic tangent.

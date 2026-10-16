@@ -1,0 +1,2031 @@
+1
+00:00:00,000 --> 00:00:06,062
+This is the complete walkthrough of your Exam Two Study Guide, including every derivative-table entry and every
+
+2
+00:00:06,062 --> 00:00:07,372
+true or false statement.
+
+3
+00:00:07,642 --> 00:00:12,983
+We will explain the rules, show the algebra, and include units in the applications.
+
+4
+00:00:13,253 --> 00:00:15,970
+This is a study guide, rather than a new exam.
+
+5
+00:00:17,090 --> 00:00:19,772
+Use the chapter markers to jump to a problem.
+
+6
+00:00:20,042 --> 00:00:25,347
+The new narration uses a neural synthetic voice, with a slower pace and more consistent volume.
+
+7
+00:00:25,617 --> 00:00:28,311
+Yellow highlights the current transformation.
+
+8
+00:00:28,581 --> 00:00:30,485
+Captions follow the explanation.
+
+9
+00:00:30,755 --> 00:00:33,216
+Pause before the next reveal to practice.
+
+10
+00:00:34,336 --> 00:00:36,426
+For part a, use the power rule.
+
+11
+00:00:36,696 --> 00:00:41,444
+Bring the exponent down as a multiplier, then subtract one from the exponent.
+
+12
+00:00:41,714 --> 00:00:44,002
+X to the fourth becomes four x cubed.
+
+13
+00:00:45,122 --> 00:00:47,920
+For b, e to the x is its own derivative.
+
+14
+00:00:48,190 --> 00:00:51,673
+For c, rewrite the square root as x to the one half.
+
+15
+00:00:51,943 --> 00:00:58,494
+The power rule gives one half times x to the negative one half, which is one over two square root x, for
+
+16
+00:00:58,494 --> 00:00:59,187
+positive x.
+
+17
+00:01:00,307 --> 00:01:03,872
+For d, one over x squared is x to the negative two.
+
+18
+00:01:04,142 --> 00:01:07,067
+The power rule still works with a negative exponent.
+
+19
+00:01:07,337 --> 00:01:11,633
+The derivative is negative two over x cubed, with x not zero.
+
+20
+00:01:12,753 --> 00:01:15,737
+In part e, the base is two, not e.
+
+21
+00:01:16,007 --> 00:01:21,521
+An exponential with constant positive base a differentiates to a to the x times natural log a.
+
+22
+00:01:21,791 --> 00:01:25,797
+Do not use the ordinary power rule when x is in the exponent.
+
+23
+00:01:26,917 --> 00:01:30,202
+Parts f and i both say sine x in the PDF.
+
+24
+00:01:30,472 --> 00:01:32,400
+Their derivative is cosine x.
+
+25
+00:01:32,670 --> 00:01:35,375
+We are keeping that repeated question as printed.
+
+26
+00:01:36,495 --> 00:01:39,119
+Part g is one over x, for positive x.
+
+27
+00:01:39,389 --> 00:01:46,297
+For h, use change of base: log base four of x equals natural log x divided by natural log four.
+
+28
+00:01:46,567 --> 00:01:49,225
+That constant denominator stays in the derivative.
+
+29
+00:01:50,345 --> 00:01:54,885
+Part j has a negative sign: cosine differentiates to negative sine.
+
+30
+00:01:55,155 --> 00:01:59,021
+Part k, tangent, differentiates to secant squared.
+
+31
+00:01:59,291 --> 00:02:02,031
+These formulas assume angles in radians.
+
+32
+00:02:03,151 --> 00:02:05,694
+Part l is negative cosecant squared.
+
+33
+00:02:05,964 --> 00:02:08,158
+Part m is secant times tangent.
+
+34
+00:02:08,428 --> 00:02:12,793
+Evaluate these only where the original trigonometric function is defined.
+
+35
+00:02:13,913 --> 00:02:17,048
+Part n is negative cosecant times cotangent.
+
+36
+00:02:17,318 --> 00:02:24,040
+A useful memory check: the derivatives of cosine, cotangent, and cosecant have a leading minus sign.
+
+37
+00:02:25,160 --> 00:02:30,187
+In part o, sine to the negative one means inverse sine, also called arc sine.
+
+38
+00:02:30,457 --> 00:02:32,756
+It does not mean reciprocal sine.
+
+39
+00:02:33,026 --> 00:02:39,690
+Its derivative is one over square root of one minus x squared, for x strictly between negative one and one.
+
+40
+00:02:40,810 --> 00:02:45,210
+Inverse cosine has the same square root denominator and a negative sign.
+
+41
+00:02:45,480 --> 00:02:49,892
+Its derivative also requires negative one less than x less than one.
+
+42
+00:02:51,012 --> 00:02:54,843
+Inverse tangent differentiates to one over one plus x squared.
+
+43
+00:02:55,113 --> 00:03:01,000
+Unlike inverse sine and inverse cosine, this derivative is defined for every real x.
+
+44
+00:03:02,120 --> 00:03:06,055
+Parts r and s are hyperbolic sine and hyperbolic cosine.
+
+45
+00:03:06,325 --> 00:03:12,630
+They differentiate into each other, and neither formula has the negative sign that appears for ordinary cosine.
+
+46
+00:03:13,750 --> 00:03:20,518
+The derivative of hyperbolic tangent is hyperbolic secant squared, meaning one over hyperbolic cosine squared.
+
+47
+00:03:20,788 --> 00:03:24,457
+Keep the hyperbolic functions distinct from ordinary trigonometry.
+
+48
+00:03:25,577 --> 00:03:29,698
+For part u, one over the cube root of x is x to the negative one third.
+
+49
+00:03:29,968 --> 00:03:35,216
+Multiply by negative one third, then reduce the exponent to negative four thirds.
+
+50
+00:03:35,486 --> 00:03:40,084
+This real cube-root formula works on either side of zero, but not at zero.
+
+51
+00:03:41,204 --> 00:03:43,444
+Problem two asks for two derivatives.
+
+52
+00:03:43,714 --> 00:03:47,314
+Apply the sum rule, differentiating each term separately.
+
+53
+00:03:47,584 --> 00:03:51,171
+A constant has zero derivative because it does not change.
+
+54
+00:03:52,291 --> 00:03:59,002
+X squared becomes two x, negative ten x becomes negative ten, and one hundred becomes zero.
+
+55
+00:03:59,272 --> 00:04:04,148
+Differentiate again: two x becomes two and negative ten becomes zero.
+
+56
+00:04:05,268 --> 00:04:09,447
+For problem three, use the sine and cosine formulas separately.
+
+57
+00:04:09,717 --> 00:04:12,852
+Watch the sign when cosine is differentiated.
+
+58
+00:04:13,972 --> 00:04:16,631
+The first derivative is cosine minus sine.
+
+59
+00:04:16,901 --> 00:04:20,395
+Differentiating again gives negative sine minus cosine.
+
+60
+00:04:20,665 --> 00:04:24,148
+The minus before sine stays when taking its derivative.
+
+61
+00:04:25,268 --> 00:04:28,310
+Problem four is a cube whose inside is sixteen x.
+
+62
+00:04:28,580 --> 00:04:31,796
+We can use the chain rule or expand the constant first.
+
+63
+00:04:32,066 --> 00:04:34,469
+We will show both ways to check the result.
+
+64
+00:04:35,589 --> 00:04:41,151
+The chain rule gives three times the inside squared, times the inside derivative sixteen.
+
+65
+00:04:41,421 --> 00:04:48,340
+Alternatively, sixteen cubed is four thousand ninety six, so the original is four thousand ninety six x cubed.
+
+66
+00:04:48,610 --> 00:04:52,349
+Both methods give twelve thousand two hundred eighty eight x squared.
+
+67
+00:04:53,469 --> 00:04:57,323
+For problem five, keep the constant multiplier negative two.
+
+68
+00:04:57,593 --> 00:05:01,796
+Cosine becomes negative sine, and tangent becomes secant squared.
+
+69
+00:05:02,916 --> 00:05:04,541
+This is the first derivative.
+
+70
+00:05:04,811 --> 00:05:10,581
+To differentiate secant squared, view it as the square of secant x and use the chain rule.
+
+71
+00:05:11,701 --> 00:05:16,531
+The derivative of secant squared is two secant x times secant x tangent x.
+
+72
+00:05:16,801 --> 00:05:21,782
+Multiplying by negative two gives negative four secant squared x tangent x.
+
+73
+00:05:22,902 --> 00:05:25,421
+Rewrite the reciprocal as a negative power.
+
+74
+00:05:25,691 --> 00:05:29,279
+This avoids using the quotient rule for a simple reciprocal.
+
+75
+00:05:30,399 --> 00:05:33,313
+The first derivative uses the power rule twice.
+
+76
+00:05:33,583 --> 00:05:37,530
+Negative exponents obey the same bring-down-and-subtract-one rule.
+
+77
+00:05:38,650 --> 00:05:40,067
+Differentiate again.
+
+78
+00:05:40,337 --> 00:05:46,026
+Negative two times negative three gives positive six, and the exponent becomes negative four.
+
+79
+00:05:47,146 --> 00:05:48,864
+Problem seven is a quotient.
+
+80
+00:05:49,134 --> 00:05:53,499
+Here both the numerator and denominator change, so use the quotient rule.
+
+81
+00:05:54,619 --> 00:05:58,044
+Multiply the denominator by the derivative of the numerator.
+
+82
+00:05:58,314 --> 00:06:02,946
+Subtract the numerator times the derivative of the denominator, which is one.
+
+83
+00:06:03,216 --> 00:06:05,887
+Divide by the original denominator squared.
+
+84
+00:06:06,157 --> 00:06:09,106
+Keep x nonzero and cosine x nonzero.
+
+85
+00:06:10,226 --> 00:06:13,511
+For fractional exponents, the power rule still applies.
+
+86
+00:06:13,781 --> 00:06:16,765
+Subtract one by writing one as three thirds.
+
+87
+00:06:17,885 --> 00:06:20,010
+Four thirds minus one is one third.
+
+88
+00:06:20,280 --> 00:06:22,985
+Two thirds minus one is negative one third.
+
+89
+00:06:23,255 --> 00:06:28,479
+At zero, this derivative is not finite; the original function has a cusp there.
+
+90
+00:06:29,599 --> 00:06:31,143
+Problem nine is a quotient.
+
+91
+00:06:31,413 --> 00:06:34,386
+The denominator changes, so we need the quotient rule.
+
+92
+00:06:34,656 --> 00:06:39,114
+The original function is defined only where one plus cosine x is not zero.
+
+93
+00:06:40,234 --> 00:06:46,503
+Use bottom times derivative of top, minus top times derivative of bottom, over bottom squared.
+
+94
+00:06:46,773 --> 00:06:49,536
+The derivative of cosine is negative sine.
+
+95
+00:06:49,806 --> 00:06:52,639
+Notice the two minus signs in the second product.
+
+96
+00:06:53,759 --> 00:06:55,895
+The double negative becomes a plus.
+
+97
+00:06:56,165 --> 00:06:59,846
+Now use sine squared plus cosine squared equals one.
+
+98
+00:07:00,116 --> 00:07:02,914
+This identity simplifies the numerator.
+
+99
+00:07:04,034 --> 00:07:06,890
+Cancel one factor of one plus cosine x.
+
+100
+00:07:07,160 --> 00:07:09,644
+Keep the restriction from the original function.
+
+101
+00:07:09,914 --> 00:07:13,792
+The most common error here is losing the minus sign in the quotient rule.
+
+102
+00:07:14,912 --> 00:07:17,954
+Problem ten is a product of two changing factors.
+
+103
+00:07:18,224 --> 00:07:20,801
+We cannot simply multiply their derivatives.
+
+104
+00:07:21,071 --> 00:07:24,380
+Name the first factor u and the second factor v.
+
+105
+00:07:25,500 --> 00:07:29,958
+The product rule is u prime times v, plus u times v prime.
+
+106
+00:07:30,228 --> 00:07:34,536
+Think: change one factor at a time, while keeping the other factor.
+
+107
+00:07:35,656 --> 00:07:38,105
+The derivative of the first factor is two.
+
+108
+00:07:38,375 --> 00:07:45,783
+For the logarithm, use the chain rule: the derivative of the inside, six x, divided by the original inside.
+
+109
+00:07:46,903 --> 00:07:49,016
+Substitute into the product rule.
+
+110
+00:07:49,286 --> 00:07:51,190
+Both terms are necessary.
+
+111
+00:07:51,460 --> 00:07:56,673
+You may leave the derivative in this factored form; expanding it does not make it more correct.
+
+112
+00:07:57,793 --> 00:08:01,508
+Problem eleven combines the product rule with two chain rules.
+
+113
+00:08:01,778 --> 00:08:06,758
+The superscript negative one means inverse tangent, not reciprocal tangent.
+
+114
+00:08:07,878 --> 00:08:10,851
+The exponential needs the inside derivative two.
+
+115
+00:08:11,121 --> 00:08:17,843
+Inverse tangent gives one over one plus its inside squared, multiplied by the inside derivative one half.
+
+116
+00:08:18,113 --> 00:08:21,120
+Simplifying gives two over x squared plus four.
+
+117
+00:08:22,240 --> 00:08:25,444
+Use the product rule and factor out e to the two x.
+
+118
+00:08:25,714 --> 00:08:29,696
+There are two terms inside the brackets because either factor can change.
+
+119
+00:08:30,816 --> 00:08:35,054
+Use the inverse sine derivative, not the ordinary sine derivative.
+
+120
+00:08:35,324 --> 00:08:37,867
+Name the inside x squared minus one.
+
+121
+00:08:38,987 --> 00:08:42,028
+Put the inside derivative two x in the numerator.
+
+122
+00:08:42,298 --> 00:08:46,443
+The denominator is square root of one minus the entire inside squared.
+
+123
+00:08:46,713 --> 00:08:49,743
+The formula applies where the denominator is positive.
+
+124
+00:08:50,863 --> 00:08:55,925
+The original inverse sine is real when absolute x is at most square root two.
+
+125
+00:08:56,195 --> 00:09:01,106
+The derivative formula requires the inside strictly between negative one and one.
+
+126
+00:09:01,376 --> 00:09:05,835
+Zero is excluded: the function has different one-sided slopes there.
+
+127
+00:09:06,955 --> 00:09:10,774
+Problem thirteen uses theta as the independent variable.
+
+128
+00:09:11,044 --> 00:09:13,598
+The rules are identical to the rules for x.
+
+129
+00:09:13,868 --> 00:09:16,481
+Treat the sum in parentheses as one factor.
+
+130
+00:09:17,601 --> 00:09:21,966
+Differentiate tangent for the first term and the parenthesized sum for the second.
+
+131
+00:09:22,236 --> 00:09:25,963
+The derivative of the sum is cosine theta minus sine theta.
+
+132
+00:09:27,083 --> 00:09:31,599
+For problem fourteen, divide the numerator into x minus one plus three.
+
+133
+00:09:31,869 --> 00:09:36,188
+This rewriting makes both derivatives easier and keeps x not equal to one.
+
+134
+00:09:37,308 --> 00:09:39,293
+One differentiates to zero.
+
+135
+00:09:39,563 --> 00:09:45,612
+Three times x minus one to the negative one becomes negative three times x minus one to the negative two.
+
+136
+00:09:46,732 --> 00:09:48,149
+Differentiate again.
+
+137
+00:09:48,419 --> 00:09:51,275
+Negative three times negative two gives six.
+
+138
+00:09:51,545 --> 00:09:55,492
+The inside derivative is one, so it adds no extra factor.
+
+139
+00:09:56,612 --> 00:09:58,121
+Use the product rule.
+
+140
+00:09:58,391 --> 00:10:02,048
+Both cosecant and cotangent have negative derivatives.
+
+141
+00:10:02,318 --> 00:10:05,047
+This problem is a useful test of sign tracking.
+
+142
+00:10:06,167 --> 00:10:10,590
+The first product contributes negative cosecant times cotangent squared.
+
+143
+00:10:10,860 --> 00:10:13,693
+The second contributes negative cosecant cubed.
+
+144
+00:10:14,813 --> 00:10:18,865
+For the second derivative, apply the product rule again to the first term.
+
+145
+00:10:19,135 --> 00:10:25,195
+Differentiating cotangent squared uses the chain rule and contributes a second positive term.
+
+146
+00:10:26,315 --> 00:10:31,946
+The derivative of negative cosecant cubed contributes another three cosecant cubed cotangent.
+
+147
+00:10:32,216 --> 00:10:35,130
+Combine that with the two already present to get five.
+
+148
+00:10:36,250 --> 00:10:38,445
+Differentiate with respect to u.
+
+149
+00:10:38,715 --> 00:10:43,695
+The top derivative is negative two u, and the bottom derivative is positive two u.
+
+150
+00:10:44,815 --> 00:10:47,776
+The quotient rule subtracts the second product.
+
+151
+00:10:48,046 --> 00:10:51,749
+Keep the parentheses so the minus sign applies to the entire product.
+
+152
+00:10:52,869 --> 00:10:56,004
+Expanding the numerator cancels the cubic terms.
+
+153
+00:10:56,274 --> 00:10:58,782
+The two linear terms add to negative four u.
+
+154
+00:10:59,052 --> 00:11:01,722
+The denominator never vanishes for real u.
+
+155
+00:11:02,842 --> 00:11:05,303
+Rewrite the square root as a one-half power.
+
+156
+00:11:05,573 --> 00:11:10,519
+The outer derivative must be multiplied by the derivative of the polynomial inside.
+
+157
+00:11:11,639 --> 00:11:14,426
+The inside derivative is two x minus seven.
+
+158
+00:11:14,696 --> 00:11:21,952
+The formula applies when x squared minus seven x is positive, meaning x less than zero or x greater than seven.
+
+159
+00:11:22,222 --> 00:11:25,519
+The endpoints do not have a finite two-sided derivative.
+
+160
+00:11:26,639 --> 00:11:29,518
+Multiply powers of x by adding exponents.
+
+161
+00:11:29,788 --> 00:11:36,162
+The first term has exponent one plus one half, and the reciprocal term has exponent negative two minus one half.
+
+162
+00:11:36,432 --> 00:11:38,464
+The real domain is x positive.
+
+163
+00:11:39,584 --> 00:11:41,743
+Use the power rule on each term.
+
+164
+00:11:42,013 --> 00:11:47,052
+This is simpler than using both a product rule and a quotient rule on the original expression.
+
+165
+00:11:48,172 --> 00:11:53,385
+Identify the outside power, three halves, and the inside t minus one over t.
+
+166
+00:11:53,655 --> 00:11:56,279
+The chain rule multiplies their derivatives.
+
+167
+00:11:57,399 --> 00:12:01,869
+The derivative of negative one over t is positive one over t squared.
+
+168
+00:12:02,139 --> 00:12:03,555
+Keep that plus sign.
+
+169
+00:12:03,825 --> 00:12:08,771
+This formula is used on the interior of the real domain where the inside is positive.
+
+170
+00:12:09,891 --> 00:12:12,503
+The whole polynomial is raised to the fourth power.
+
+171
+00:12:12,773 --> 00:12:15,420
+Keep it together while taking the outer derivative.
+
+172
+00:12:16,540 --> 00:12:19,687
+Bring down four and lower the outer exponent to three.
+
+173
+00:12:19,957 --> 00:12:24,752
+Then multiply by three x squared minus five, the derivative of the inside.
+
+174
+00:12:25,872 --> 00:12:29,482
+This is a product, and each factor also needs the chain rule.
+
+175
+00:12:29,752 --> 00:12:32,771
+Write two product-rule terms before simplifying.
+
+176
+00:12:33,891 --> 00:12:38,094
+The first factor differentiates to three times its square times twelve t.
+
+177
+00:12:38,364 --> 00:12:42,439
+The second differentiates to four times its cube times three t squared.
+
+178
+00:12:42,709 --> 00:12:44,973
+Keep the untouched factor in each term.
+
+179
+00:12:46,093 --> 00:12:47,974
+This factored form is optional.
+
+180
+00:12:48,244 --> 00:12:50,867
+Pull out the factors shared by both terms.
+
+181
+00:12:51,137 --> 00:12:55,375
+The unsimplified two-term version is also a complete correct derivative.
+
+182
+00:12:56,495 --> 00:12:58,887
+The independent variable is y here.
+
+183
+00:12:59,157 --> 00:13:03,615
+We need the chain rule for the outer cube and the quotient rule for the inside fraction.
+
+184
+00:13:04,735 --> 00:13:10,958
+The numerator simplifies to thirteen because y cancels and subtracting negative six adds six.
+
+185
+00:13:12,078 --> 00:13:16,211
+Multiply the derivative of the outer cube by the derivative of the inside.
+
+186
+00:13:16,481 --> 00:13:19,418
+Combining the denominator powers gives a fourth power.
+
+187
+00:13:19,688 --> 00:13:21,592
+Y cannot be negative seven.
+
+188
+00:13:22,712 --> 00:13:28,308
+There are multiple layers here: a square root outside, and two exponentials inside.
+
+189
+00:13:28,578 --> 00:13:31,527
+Differentiate the entire expression under the radical.
+
+190
+00:13:32,647 --> 00:13:34,842
+The first exponent contributes four.
+
+191
+00:13:35,112 --> 00:13:37,689
+The second exponent contributes two x.
+
+192
+00:13:37,959 --> 00:13:40,200
+Keep the subtraction between the terms.
+
+193
+00:13:41,320 --> 00:13:45,232
+Divide the inside derivative by twice the original square root.
+
+194
+00:13:45,502 --> 00:13:50,274
+For a finite derivative this requires the expression under the radical to be positive.
+
+195
+00:13:50,544 --> 00:13:53,528
+Here that means zero less than x less than four.
+
+196
+00:13:54,648 --> 00:13:57,434
+The powers apply to the trigonometric values.
+
+197
+00:13:57,704 --> 00:14:00,990
+Sine cubed x means sine x, all cubed.
+
+198
+00:14:01,260 --> 00:14:03,640
+Differentiate each cube with the chain rule.
+
+199
+00:14:04,760 --> 00:14:08,336
+The sine term contributes cosine as its inside derivative.
+
+200
+00:14:08,606 --> 00:14:12,971
+The cosine term contributes negative sine, which creates the minus sign.
+
+201
+00:14:14,091 --> 00:14:17,969
+Factor out three sine x cosine x if you want a compact answer.
+
+202
+00:14:18,239 --> 00:14:20,839
+Both forms describe the same derivative.
+
+203
+00:14:21,959 --> 00:14:26,244
+Problem twenty five means the square of sine of cosine of k x.
+
+204
+00:14:26,514 --> 00:14:27,872
+Treat k as a constant.
+
+205
+00:14:28,142 --> 00:14:30,499
+Work from the outside toward the inside.
+
+206
+00:14:31,619 --> 00:14:33,709
+The outermost operation is squaring.
+
+207
+00:14:33,979 --> 00:14:40,109
+Its derivative is two times the unchanged sine, multiplied by the derivative of that sine.
+
+208
+00:14:41,229 --> 00:14:44,909
+The derivative of sine u is cosine u times u prime.
+
+209
+00:14:45,179 --> 00:14:48,697
+We still owe a derivative for the cosine layer and for k x.
+
+210
+00:14:49,817 --> 00:14:52,394
+Cosine differentiates to negative sine.
+
+211
+00:14:52,664 --> 00:14:55,520
+Then the inside k x differentiates to k.
+
+212
+00:14:55,790 --> 00:14:58,553
+Every changing layer contributes one factor.
+
+213
+00:14:59,673 --> 00:15:01,403
+Put the layers back together.
+
+214
+00:15:01,673 --> 00:15:05,354
+Read the factors from outside to inside to check that none is missing.
+
+215
+00:15:05,624 --> 00:15:09,455
+In particular, remember both the negative sign and the factor k.
+
+216
+00:15:10,575 --> 00:15:14,708
+Use the product rule for x times hyperbolic sine of x squared.
+
+217
+00:15:14,978 --> 00:15:20,365
+Hyperbolic sine differentiates to hyperbolic cosine, with an additional inside derivative.
+
+218
+00:15:21,485 --> 00:15:23,366
+The derivative of x is one.
+
+219
+00:15:23,636 --> 00:15:29,220
+In the second term, keep x and multiply hyperbolic cosine of x squared by two x.
+
+220
+00:15:30,340 --> 00:15:31,943
+Combine the x factors.
+
+221
+00:15:32,213 --> 00:15:36,172
+There is no negative sign when differentiating hyperbolic sine.
+
+222
+00:15:37,292 --> 00:15:42,667
+For a logarithm of a function, differentiate the inside and divide by the original inside.
+
+223
+00:15:42,937 --> 00:15:46,791
+Then use the chain rule again for hyperbolic cosine of three x.
+
+224
+00:15:47,911 --> 00:15:53,287
+Hyperbolic cosine differentiates to hyperbolic sine, and three x contributes three.
+
+225
+00:15:53,557 --> 00:15:57,713
+Hyperbolic sine divided by hyperbolic cosine is hyperbolic tangent.
+
+226
+00:15:58,833 --> 00:16:00,552
+Treat y as a function of x.
+
+227
+00:16:00,822 --> 00:16:07,161
+The middle term is a product of x squared and y squared, so it needs a product rule as well as a chain rule.
+
+228
+00:16:08,281 --> 00:16:11,636
+The derivative of y to the fifth includes y prime.
+
+229
+00:16:11,906 --> 00:16:17,258
+In the middle term, differentiate x squared for one term and y squared for the other.
+
+230
+00:16:17,528 --> 00:16:20,256
+The constant twelve differentiates to zero.
+
+231
+00:16:21,376 --> 00:16:24,558
+Collect the terms containing y prime on one side.
+
+232
+00:16:24,828 --> 00:16:29,170
+Factor out y prime, then move the remaining terms to the other side.
+
+233
+00:16:30,290 --> 00:16:34,516
+Divide by the coefficient of y prime, wherever it is nonzero.
+
+234
+00:16:34,786 --> 00:16:40,254
+This gives the slope along the implicit curve at points where that expression defines a derivative.
+
+235
+00:16:41,374 --> 00:16:43,673
+Here y is an unknown function of x.
+
+236
+00:16:43,943 --> 00:16:50,637
+Differentiate both sides with respect to x, and attach y prime whenever the chain rule differentiates a y
+
+237
+00:16:50,637 --> 00:16:51,338
+expression.
+
+238
+00:16:52,458 --> 00:16:56,754
+The derivative of y to the fourth is four y cubed times y prime.
+
+239
+00:16:57,024 --> 00:16:58,348
+Solve for y prime.
+
+240
+00:16:58,618 --> 00:17:05,225
+This formula requires y to be nonzero; it describes the slope where the curve is locally a differentiable
+
+241
+00:17:05,225 --> 00:17:06,106
+function of x.
+
+242
+00:17:07,226 --> 00:17:13,019
+For the second derivative, write y prime as negative x cubed times y to the negative third power.
+
+243
+00:17:13,289 --> 00:17:17,573
+Apply the product rule, and again use the chain rule on the y factor.
+
+244
+00:17:18,693 --> 00:17:22,560
+Substitute negative x cubed over y cubed for y prime.
+
+245
+00:17:22,830 --> 00:17:24,803
+The second term becomes negative.
+
+246
+00:17:25,073 --> 00:17:29,427
+A second derivative should not still contain an unexplained y prime here.
+
+247
+00:17:30,547 --> 00:17:31,859
+Combine the fractions.
+
+248
+00:17:32,129 --> 00:17:38,503
+The original equation says x to the fourth plus y to the fourth is sixteen, so the numerator simplifies.
+
+249
+00:17:38,773 --> 00:17:42,999
+Reusing the original relationship often makes implicit answers much cleaner.
+
+250
+00:17:44,119 --> 00:17:46,476
+We could use an implicit quotient rule.
+
+251
+00:17:46,746 --> 00:17:50,740
+A simpler option is to multiply by the nonzero denominator first.
+
+252
+00:17:51,010 --> 00:17:54,794
+Keep its restriction because multiplying can hide an excluded point.
+
+253
+00:17:55,914 --> 00:18:00,431
+Expand the right side, move its y term to the left, and factor y.
+
+254
+00:18:00,701 --> 00:18:02,825
+Now we can solve explicitly.
+
+255
+00:18:03,945 --> 00:18:08,195
+The new denominator x squared plus two never vanishes for real x.
+
+256
+00:18:08,465 --> 00:18:15,630
+But the original denominator equals x over x squared plus two, so the original equation excludes x equal to
+
+257
+00:18:15,630 --> 00:18:15,965
+zero.
+
+258
+00:18:17,085 --> 00:18:20,254
+Differentiate the explicit quotient and simplify.
+
+259
+00:18:20,524 --> 00:18:26,735
+The original curve still excludes zero, even though the simplified derivative expression has a value there.
+
+260
+00:18:27,855 --> 00:18:29,550
+Both terms are products.
+
+261
+00:18:29,820 --> 00:18:34,000
+Cosine y also needs the chain rule because y depends on x.
+
+262
+00:18:35,120 --> 00:18:38,522
+Differentiate x cosine y with the product rule.
+
+263
+00:18:38,792 --> 00:18:42,286
+Differentiate y cosine x with another product rule.
+
+264
+00:18:42,556 --> 00:18:46,074
+Notice which derivatives create y prime and which do not.
+
+265
+00:18:47,194 --> 00:18:48,959
+Collect y prime terms.
+
+266
+00:18:49,229 --> 00:18:53,095
+Move the other terms to the opposite side, keeping both signs.
+
+267
+00:18:54,215 --> 00:18:57,675
+Divide by the remaining coefficient where it is nonzero.
+
+268
+00:18:57,945 --> 00:19:04,528
+Keeping the implicit variables in the answer is expected; there is no need to solve the original equation for y.
+
+269
+00:19:05,648 --> 00:19:11,789
+Both the base and exponent depend on x, so the ordinary constant exponent power rule does not apply.
+
+270
+00:19:12,059 --> 00:19:18,120
+We work where the base is positive, giving a real logarithm and the usual smooth variable power.
+
+271
+00:19:19,240 --> 00:19:21,980
+Take natural logarithms of both sides.
+
+272
+00:19:22,250 --> 00:19:24,386
+The exponent comes down in front.
+
+273
+00:19:24,656 --> 00:19:29,428
+This turns a difficult variable power into a product that we know how to differentiate.
+
+274
+00:19:30,548 --> 00:19:33,322
+The left side becomes y prime over y.
+
+275
+00:19:33,592 --> 00:19:35,833
+On the right, use the product rule.
+
+276
+00:19:36,103 --> 00:19:41,595
+The logarithm also needs the chain rule, producing six x squared over the inside.
+
+277
+00:19:42,715 --> 00:19:46,476
+Multiply by y, then replace y with the original function.
+
+278
+00:19:46,746 --> 00:19:49,881
+Forgetting this final multiplication is a common mistake.
+
+279
+00:19:50,151 --> 00:19:55,445
+Logarithmic differentiation is especially useful when a variable appears in the exponent.
+
+280
+00:19:56,565 --> 00:20:01,418
+Both base and exponent vary, so use logarithmic differentiation again.
+
+281
+00:20:01,688 --> 00:20:05,752
+Work where tangent x is positive so the real logarithm is defined.
+
+282
+00:20:06,872 --> 00:20:10,111
+Take a logarithm and bring the sine x exponent in front.
+
+283
+00:20:10,381 --> 00:20:12,413
+The right side is now a product.
+
+284
+00:20:13,533 --> 00:20:15,692
+Differentiate with the product rule.
+
+285
+00:20:15,962 --> 00:20:20,258
+The logarithm of tangent has derivative secant squared divided by tangent.
+
+286
+00:20:21,378 --> 00:20:23,351
+Multiply by the original y.
+
+287
+00:20:23,621 --> 00:20:30,926
+The second term inside the brackets simplifies to secant x because sine x times secant squared x divided by
+
+288
+00:20:30,926 --> 00:20:33,316
+tangent x equals one over cosine x.
+
+289
+00:20:34,436 --> 00:20:37,199
+A tangent line needs the point and its slope.
+
+290
+00:20:37,469 --> 00:20:41,997
+Check the point: six divided by three is two, so it lies on the graph.
+
+291
+00:20:43,117 --> 00:20:47,563
+Differentiate with the quotient rule, then evaluate at x equal to six.
+
+292
+00:20:47,833 --> 00:20:50,016
+The derivative gives the tangent slope.
+
+293
+00:20:51,136 --> 00:20:57,905
+Use point-slope form, y minus the given y coordinate equals the slope times x minus the given x coordinate.
+
+294
+00:20:58,175 --> 00:21:01,437
+This form is already a complete tangent-line equation.
+
+295
+00:21:02,557 --> 00:21:07,724
+At pi over six, sine is one half, so twice sine equals the given height one.
+
+296
+00:21:08,844 --> 00:21:11,073
+The derivative of sine is cosine.
+
+297
+00:21:11,343 --> 00:21:17,647
+Cosine pi over six is square root three over two, so multiplying by two gives square root three.
+
+298
+00:21:18,767 --> 00:21:21,925
+Substitute the point and slope into point-slope form.
+
+299
+00:21:22,195 --> 00:21:24,958
+Keep pi over six exact instead of rounding it.
+
+300
+00:21:26,078 --> 00:21:28,493
+The angle in the cosine term is two x.
+
+301
+00:21:28,763 --> 00:21:32,745
+That inside factor will contribute a two when we differentiate.
+
+302
+00:21:33,865 --> 00:21:35,862
+Differentiate sine normally.
+
+303
+00:21:36,132 --> 00:21:41,298
+Cosine two x becomes negative sine two x, times the inside derivative two.
+
+304
+00:21:42,418 --> 00:21:46,911
+At x equal to pi over six, the doubled angle is pi over three.
+
+305
+00:21:47,181 --> 00:21:50,897
+Both trigonometric values here are square root three over two.
+
+306
+00:21:52,017 --> 00:21:54,629
+Use the negative slope with the given point.
+
+307
+00:21:54,899 --> 00:21:57,697
+Do not forget the factor two from the doubled angle.
+
+308
+00:21:58,817 --> 00:22:01,870
+Rewrite the quotient as a product with a negative exponent.
+
+309
+00:22:02,140 --> 00:22:05,960
+This lets the product and chain rules handle the derivative cleanly.
+
+310
+00:22:07,080 --> 00:22:14,220
+The derivative of the second factor is negative five times the inside to the negative six, times negative two x.
+
+311
+00:22:14,490 --> 00:22:16,510
+The two negative signs cancel.
+
+312
+00:22:17,630 --> 00:22:19,314
+Use a common denominator.
+
+313
+00:22:19,584 --> 00:22:24,588
+Three minus x squared plus ten x squared becomes three plus nine x squared.
+
+314
+00:22:24,858 --> 00:22:29,444
+At x equal to two, the denominator is one and the numerator is thirty nine.
+
+315
+00:22:30,564 --> 00:22:33,675
+The tangent line is steep and increasing at this point.
+
+316
+00:22:33,945 --> 00:22:38,055
+Use y plus two because the given y coordinate is negative two.
+
+317
+00:22:39,175 --> 00:22:43,703
+This curve is implicit, so find the slope with implicit differentiation.
+
+318
+00:22:43,973 --> 00:22:49,453
+The point satisfies the equation: twenty five sixteenths minus nine sixteenths equals one.
+
+319
+00:22:50,573 --> 00:22:52,697
+Differentiate both squares.
+
+320
+00:22:52,967 --> 00:22:55,127
+The y square needs y prime.
+
+321
+00:22:55,397 --> 00:22:58,346
+Solve the resulting linear equation for y prime.
+
+322
+00:22:59,466 --> 00:23:02,542
+Evaluate both x and y at the given point.
+
+323
+00:23:02,812 --> 00:23:06,423
+An implicit derivative usually depends on both coordinates.
+
+324
+00:23:07,543 --> 00:23:10,829
+Substitute the point and slope into point-slope form.
+
+325
+00:23:11,099 --> 00:23:15,522
+The x expression is x plus five because the x coordinate is negative five.
+
+326
+00:23:16,642 --> 00:23:20,706
+We need a product rule on the right and an implicit chain rule on the left.
+
+327
+00:23:21,826 --> 00:23:26,307
+The first right-hand term differentiates x cubed and keeps two minus x.
+
+328
+00:23:26,577 --> 00:23:30,037
+The second keeps x cubed and multiplies by negative one.
+
+329
+00:23:31,157 --> 00:23:33,456
+At one comma one, the slope is one.
+
+330
+00:23:33,726 --> 00:23:39,716
+Point-slope form gives y minus one equals x minus one, so the tangent is y equals x.
+
+331
+00:23:40,836 --> 00:23:43,205
+Position tells us where the particle is.
+
+332
+00:23:43,475 --> 00:23:46,157
+Velocity is the derivative of position.
+
+333
+00:23:46,427 --> 00:23:49,202
+Acceleration is the derivative of velocity.
+
+334
+00:23:49,472 --> 00:23:52,502
+Speed is the absolute value of velocity.
+
+335
+00:23:53,622 --> 00:23:56,408
+Differentiate position and factor the result.
+
+336
+00:23:56,678 --> 00:24:02,576
+The particle is at rest when velocity is zero, so the rest times are one second and two seconds.
+
+337
+00:24:03,696 --> 00:24:05,414
+Differentiate velocity.
+
+338
+00:24:05,684 --> 00:24:08,784
+Acceleration is zero at one point five seconds.
+
+339
+00:24:09,054 --> 00:24:14,894
+That does not mean the particle is at rest: its velocity there is negative one point five feet per second.
+
+340
+00:24:16,014 --> 00:24:23,448
+To determine speeding up, compare the signs of velocity and acceleration on intervals separated by one, one
+
+341
+00:24:23,448 --> 00:24:24,838
+point five, and two.
+
+342
+00:24:25,108 --> 00:24:28,022
+Do not decide from the sign of acceleration alone.
+
+343
+00:24:29,142 --> 00:24:33,089
+Velocity has signs positive, negative, negative, positive.
+
+344
+00:24:33,359 --> 00:24:37,597
+Acceleration has signs negative, negative, positive, positive.
+
+345
+00:24:37,867 --> 00:24:41,861
+Matching signs increase speed; opposite signs decrease speed.
+
+346
+00:24:42,981 --> 00:24:48,077
+The particle speeds up between one and one point five seconds, and after two seconds.
+
+347
+00:24:48,347 --> 00:24:53,247
+It slows down between zero and one, and between one point five and two.
+
+348
+00:24:53,517 --> 00:24:57,511
+These are open intervals; transition instants are handled separately.
+
+349
+00:24:58,631 --> 00:25:02,949
+Problem forty one asks the same five motion questions as problem forty.
+
+350
+00:25:03,219 --> 00:25:06,261
+Start with velocity, the derivative of position.
+
+351
+00:25:07,381 --> 00:25:09,866
+Factor the velocity to find the rest times.
+
+352
+00:25:10,136 --> 00:25:13,375
+Velocity is zero at one half second and one second.
+
+353
+00:25:13,645 --> 00:25:15,746
+Its units are feet per second.
+
+354
+00:25:16,866 --> 00:25:21,162
+Differentiate velocity to find acceleration in feet per second squared.
+
+355
+00:25:21,432 --> 00:25:24,091
+It changes sign at three quarters of a second.
+
+356
+00:25:25,211 --> 00:25:29,414
+Partition the allowed time line at one half, three quarters, and one.
+
+357
+00:25:29,684 --> 00:25:33,573
+Test the signs of velocity and acceleration in each open interval.
+
+358
+00:25:34,693 --> 00:25:39,325
+As in problem forty, the signs are opposite, matching, opposite, matching.
+
+359
+00:25:39,595 --> 00:25:45,377
+A negative velocity with a negative acceleration means the particle is speeding up in the negative direction.
+
+360
+00:25:46,497 --> 00:25:51,710
+The particle slows down before one half second and between three quarters and one second.
+
+361
+00:25:51,980 --> 00:25:56,252
+It speeds up between one half and three quarters, and after one second.
+
+362
+00:25:56,522 --> 00:25:59,181
+This completes all five requested parts.
+
+363
+00:26:00,301 --> 00:26:03,099
+The cylinder radius is fixed at five meters.
+
+364
+00:26:03,369 --> 00:26:07,862
+This is why we can replace pi r squared with the constant twenty five pi.
+
+365
+00:26:08,982 --> 00:26:11,223
+Differentiate with respect to time.
+
+366
+00:26:11,493 --> 00:26:12,967
+Only h changes.
+
+367
+00:26:13,237 --> 00:26:17,104
+There is no radius-rate term because the radius is constant.
+
+368
+00:26:18,224 --> 00:26:21,335
+Substitute the incoming volume rate and divide.
+
+369
+00:26:21,605 --> 00:26:25,947
+The water height rises at about zero point zero three eight two meters per minute.
+
+370
+00:26:27,067 --> 00:26:28,751
+Let a be the changing edge length.
+
+371
+00:26:29,021 --> 00:26:34,199
+Both volume and surface area depend on a, so use a as the bridge between their rates.
+
+372
+00:26:35,319 --> 00:26:39,022
+Differentiate the volume and use edge length thirty centimeters.
+
+373
+00:26:39,292 --> 00:26:43,123
+This gives the edge-length rate, not the requested area rate yet.
+
+374
+00:26:44,243 --> 00:26:48,052
+Differentiate surface area and substitute the edge-length rate.
+
+375
+00:26:48,322 --> 00:26:51,642
+The final answer is four thirds square centimeters per minute.
+
+376
+00:26:52,762 --> 00:26:54,794
+Measure t in hours after noon.
+
+377
+00:26:55,064 --> 00:26:59,383
+Let x be the east west separation and z the north south separation.
+
+378
+00:26:59,653 --> 00:27:06,677
+Before the ships pass east west, x decreases at thirty five kilometers per hour, while z increases at twenty
+
+379
+00:27:06,677 --> 00:27:07,002
+five.
+
+380
+00:27:08,122 --> 00:27:11,187
+The distance is the hypotenuse of a right triangle.
+
+381
+00:27:11,457 --> 00:27:16,925
+Differentiate the squared distance equation with respect to time before substituting the time.
+
+382
+00:27:17,195 --> 00:27:19,831
+Every changing quantity contributes its rate.
+
+383
+00:27:20,951 --> 00:27:23,563
+At four p m, four hours have passed.
+
+384
+00:27:23,833 --> 00:27:28,976
+The horizontal separation is ten kilometers, and the vertical separation is one hundred.
+
+385
+00:27:29,246 --> 00:27:32,404
+Use these current values, not the noon separation.
+
+386
+00:27:33,524 --> 00:27:37,042
+Divide by D and substitute both rates with their signs.
+
+387
+00:27:37,312 --> 00:27:43,610
+The result is positive, about twenty one point three nine kilometers per hour, so the ships are moving farther
+
+388
+00:27:43,610 --> 00:27:44,870
+apart at that instant.
+
+389
+00:27:45,990 --> 00:27:49,589
+The cone has total radius two meters and height four meters.
+
+390
+00:27:49,859 --> 00:27:52,634
+Water enters at two cubic meters per minute.
+
+391
+00:27:52,904 --> 00:27:57,304
+Unlike a cylinder, the water surface radius changes as the water rises.
+
+392
+00:27:58,424 --> 00:28:02,813
+Use similar triangles to replace the changing radius with h over two.
+
+393
+00:28:03,083 --> 00:28:07,285
+Substitute this relationship into the volume formula before differentiating.
+
+394
+00:28:07,555 --> 00:28:10,806
+Now volume depends on just one unknown changing length.
+
+395
+00:28:11,926 --> 00:28:14,190
+Differentiate with respect to time.
+
+396
+00:28:14,460 --> 00:28:19,232
+The derivative of h cubed is three h squared times d h over d t.
+
+397
+00:28:19,502 --> 00:28:22,172
+The factor of three reduces twelve to four.
+
+398
+00:28:23,292 --> 00:28:26,682
+Now substitute a water depth of three meters and solve.
+
+399
+00:28:26,952 --> 00:28:30,714
+The height rises at about zero point two eight three meters per minute.
+
+400
+00:28:30,984 --> 00:28:35,872
+Check the units: a height rate uses meters per minute, not cubic meters per minute.
+
+401
+00:28:36,992 --> 00:28:40,614
+Let x be distance along the path from the point nearest the light.
+
+402
+00:28:40,884 --> 00:28:43,914
+Let theta be the angle from the perpendicular to the path.
+
+403
+00:28:44,184 --> 00:28:49,339
+The perpendicular distance is twenty feet, so tangent theta equals x over twenty.
+
+404
+00:28:49,609 --> 00:28:52,419
+We take x increasing as the man walks away.
+
+405
+00:28:53,539 --> 00:28:55,849
+Differentiate with respect to time.
+
+406
+00:28:56,119 --> 00:29:01,320
+The angle changes, so the derivative of tangent includes d theta over d t.
+
+407
+00:29:02,440 --> 00:29:06,202
+At the requested position, tangent theta is three quarters.
+
+408
+00:29:06,472 --> 00:29:13,310
+The identity secant squared equals one plus tangent squared avoids needing to calculate the angle itself.
+
+409
+00:29:14,430 --> 00:29:19,237
+Divide by secant squared to obtain zero point one two eight radians per second.
+
+410
+00:29:19,507 --> 00:29:21,724
+This is the rotation-rate magnitude.
+
+411
+00:29:21,994 --> 00:29:27,126
+If the man were approaching the nearest point, the signed angle rate would be negative instead.
+
+412
+00:29:28,246 --> 00:29:30,010
+The building height is constant.
+
+413
+00:29:30,280 --> 00:29:35,238
+The sun angle is decreasing, so its signed rate is negative one quarter radian per hour.
+
+414
+00:29:35,508 --> 00:29:37,122
+Let L be the shadow length.
+
+415
+00:29:38,242 --> 00:29:42,317
+Use the right triangle: opposite over adjacent equals tangent.
+
+416
+00:29:42,587 --> 00:29:46,151
+Solving for shadow length gives four hundred cotangent theta.
+
+417
+00:29:47,271 --> 00:29:49,663
+Differentiate the cotangent expression.
+
+418
+00:29:49,933 --> 00:29:55,633
+Its negative derivative multiplies the negative angle rate, so the shadow length increases.
+
+419
+00:29:56,753 --> 00:30:01,223
+At pi over six, sine is one half, so cosecant squared is four.
+
+420
+00:30:01,493 --> 00:30:04,790
+The shadow length is increasing at four hundred feet per hour.
+
+421
+00:30:05,910 --> 00:30:09,544
+A tangent line gives a simple estimate near a known input.
+
+422
+00:30:09,814 --> 00:30:12,937
+Choose sixteen because its square root is exactly four.
+
+423
+00:30:13,207 --> 00:30:17,294
+The approximation uses the function value and slope at that easy point.
+
+424
+00:30:18,414 --> 00:30:21,955
+The square root derivative is one over two square root x.
+
+425
+00:30:22,225 --> 00:30:24,663
+At sixteen, the slope is one eighth.
+
+426
+00:30:24,933 --> 00:30:29,508
+This slope converts a small input change into an estimated output change.
+
+427
+00:30:30,628 --> 00:30:32,160
+Build the tangent line.
+
+428
+00:30:32,430 --> 00:30:36,424
+The change in x must be measured from sixteen, not from zero.
+
+429
+00:30:36,694 --> 00:30:41,907
+This is an approximation to the square root function, rather than a new exact formula for it.
+
+430
+00:30:43,027 --> 00:30:46,034
+The input increases by zero point zero one.
+
+431
+00:30:46,304 --> 00:30:49,055
+Divide this change by eight and add four.
+
+432
+00:30:49,325 --> 00:30:52,553
+Our estimate is four point zero zero one two five.
+
+433
+00:30:53,673 --> 00:30:58,654
+The square root curve is concave down, so its tangent line lies above the curve.
+
+434
+00:30:58,924 --> 00:31:01,037
+Our estimate is slightly too high.
+
+435
+00:31:01,307 --> 00:31:06,125
+The actual value is about four point zero zero one two four nine eight.
+
+436
+00:31:06,395 --> 00:31:10,284
+The approximation works well because the input is close to sixteen.
+
+437
+00:31:11,404 --> 00:31:15,073
+Choose the easy nearby input two, not one point nine.
+
+438
+00:31:15,343 --> 00:31:20,416
+The change from two to one point nine nine nine is negative zero point zero zero one.
+
+439
+00:31:21,536 --> 00:31:27,620
+The tangent approximation uses the exact function value sixteen and the slope thirty two at the base point.
+
+440
+00:31:28,740 --> 00:31:32,536
+Multiply slope by input change and add the base value.
+
+441
+00:31:32,806 --> 00:31:39,320
+Because x to the fourth is concave up near two, the tangent estimate is slightly below the exact value.
+
+442
+00:31:40,440 --> 00:31:44,317
+A differential is d y equals the derivative times d x.
+
+443
+00:31:44,587 --> 00:31:49,986
+It gives the linearized output change, rather than the exact change in the function.
+
+444
+00:31:51,106 --> 00:31:56,133
+Differentiate the polynomial, keeping the constant term derivative equal to zero.
+
+445
+00:31:57,253 --> 00:32:01,944
+Evaluate the derivative at the given x before multiplying by the given d x.
+
+446
+00:32:02,214 --> 00:32:04,884
+The requested differential is zero point eight.
+
+447
+00:32:06,004 --> 00:32:09,800
+Use differentials to estimate how an edge measurement error propagates.
+
+448
+00:32:10,070 --> 00:32:14,331
+We want the magnitude of the possible error, so use absolute values.
+
+449
+00:32:15,451 --> 00:32:19,677
+The derivative of cube volume with respect to its edge is three a squared.
+
+450
+00:32:19,947 --> 00:32:26,226
+Multiplying by the maximum edge error gives an estimated maximum volume error of two hundred seventy cubic
+
+451
+00:32:26,226 --> 00:32:26,936
+centimeters.
+
+452
+00:32:28,056 --> 00:32:32,457
+Relative error divides the estimated absolute error by the computed volume.
+
+453
+00:32:32,727 --> 00:32:35,873
+It is zero point zero one, which is one percent.
+
+454
+00:32:36,143 --> 00:32:40,392
+Differential estimates are first-order estimates, not exact error bounds.
+
+455
+00:32:41,512 --> 00:32:46,052
+For part b, use the surface-area formula instead of the volume formula.
+
+456
+00:32:46,322 --> 00:32:48,040
+The derivative is twelve a.
+
+457
+00:32:49,160 --> 00:32:53,885
+The estimated maximum surface-area error is thirty six square centimeters.
+
+458
+00:32:54,155 --> 00:32:56,408
+The units are area units this time.
+
+459
+00:32:57,528 --> 00:33:04,459
+The relative area error is about zero point zero zero six six seven, or zero point six six seven percent.
+
+460
+00:33:04,729 --> 00:33:10,866
+The relative volume error is three times the relative edge error; the relative area error is twice the relative
+
+461
+00:33:10,866 --> 00:33:11,474
+edge error.
+
+462
+00:33:12,594 --> 00:33:13,929
+Part a is false.
+
+463
+00:33:14,199 --> 00:33:17,206
+E squared is a constant, not e to the x.
+
+464
+00:33:17,476 --> 00:33:20,425
+Its derivative with respect to x is zero.
+
+465
+00:33:20,695 --> 00:33:24,956
+The proposed answer two e would come from treating the constant e as a variable.
+
+466
+00:33:26,076 --> 00:33:27,539
+Part b is false.
+
+467
+00:33:27,809 --> 00:33:33,463
+X is in the exponent, so use the exponential rule, not the constant exponent power rule.
+
+468
+00:33:33,733 --> 00:33:37,634
+The correct derivative is ten to the x times natural log ten.
+
+469
+00:33:38,754 --> 00:33:40,217
+Part c is false.
+
+470
+00:33:40,487 --> 00:33:44,678
+Natural log ten is another constant, so its derivative is zero.
+
+471
+00:33:44,948 --> 00:33:49,383
+The formula one over x applies to natural log x when x varies.
+
+472
+00:33:50,503 --> 00:33:51,757
+Part d is true.
+
+473
+00:33:52,027 --> 00:33:56,450
+The polynomial has degree thirty, since the highest power is x to the thirtieth.
+
+474
+00:33:56,720 --> 00:33:59,251
+Each derivative lowers its degree by one.
+
+475
+00:33:59,521 --> 00:34:02,726
+After thirty one derivatives, every term is zero.
+
+476
+00:34:03,846 --> 00:34:07,770
+Part e is the correct chain rule wherever f of x is positive.
+
+477
+00:34:08,040 --> 00:34:10,919
+Under that usual domain assumption it is true.
+
+478
+00:34:11,189 --> 00:34:18,304
+As literally stated with only differentiability of f, it needs a qualification: differentiability alone does not
+
+479
+00:34:18,304 --> 00:34:20,210
+guarantee this formula exists.
+
+480
+00:34:21,330 --> 00:34:28,894
+For example, f of x equals x squared is differentiable everywhere, but the square root of f is absolute x, which
+
+481
+00:34:28,894 --> 00:34:30,920
+is not differentiable at zero.
+
+482
+00:34:31,190 --> 00:34:34,742
+This explains why the positive-inside condition matters.
+
+483
+00:34:35,862 --> 00:34:37,360
+Part f is false.
+
+484
+00:34:37,630 --> 00:34:43,424
+The outside derivative must be evaluated at the inside input square root x, not at x.
+
+485
+00:34:44,544 --> 00:34:48,804
+The correct formula has f prime of square root x in the numerator.
+
+486
+00:34:49,074 --> 00:34:54,566
+If f of u is u squared, the original composition is x and its derivative is one.
+
+487
+00:34:54,836 --> 00:34:59,248
+The incorrect formula gives square root x, which is not always one.
+
+488
+00:35:00,368 --> 00:35:01,656
+Part g is true.
+
+489
+00:35:01,926 --> 00:35:05,839
+This is the sum rule: differentiate each summand separately.
+
+490
+00:35:06,959 --> 00:35:08,364
+Part h is false.
+
+491
+00:35:08,634 --> 00:35:13,324
+The product rule is f prime times g, plus f times g prime.
+
+492
+00:35:13,594 --> 00:35:16,973
+For a counterexample, let both functions equal x.
+
+493
+00:35:17,243 --> 00:35:23,071
+The product is x squared and its derivative is two x, but multiplying the derivatives gives one.
+
+494
+00:35:24,191 --> 00:35:25,422
+Part i is true.
+
+495
+00:35:25,692 --> 00:35:32,495
+This is the chain rule, with the outside derivative evaluated at the unchanged inside function, then multiplied
+
+496
+00:35:32,495 --> 00:35:34,028
+by the inside derivative.
+
+497
+00:35:35,148 --> 00:35:36,413
+Part j is false.
+
+498
+00:35:36,683 --> 00:35:39,435
+It uses the wrong input for f prime.
+
+499
+00:35:39,705 --> 00:35:43,675
+Take f of u equal to u squared and g of x equal to x squared.
+
+500
+00:35:43,945 --> 00:35:50,590
+The composition is x to the fourth, so its derivative is four x cubed, while the proposed expression is four x
+
+501
+00:35:50,590 --> 00:35:51,074
+squared.
+
+502
+00:35:52,194 --> 00:35:56,907
+We have now covered all fifty two numbered problems, including every lettered subpart.
+
+503
+00:35:57,177 --> 00:36:03,974
+For a second pass, pause after each problem statement, solve it on paper, and use the next reveals to find the
+
+504
+00:36:03,974 --> 00:36:06,198
+first point where your work differs.
+
+505
+00:36:07,318 --> 00:36:13,147
+Your final checks are structure, chain-rule factors, signs, domain restrictions, and units.
+
+506
+00:36:13,417 --> 00:36:17,143
+For motion, compare velocity and acceleration signs.
+
+507
+00:36:17,413 --> 00:36:21,430
+For rates, differentiate before substituting changing values.
+
+508
+00:36:21,700 --> 00:36:26,449
+For tangent lines and approximations, evaluate the slope at the given base point.

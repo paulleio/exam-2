@@ -1,0 +1,355 @@
+1
+00:00:00,000 --> 00:00:06,062
+This is the complete walkthrough of your Exam Two Study Guide, including every derivative-table entry and every
+
+2
+00:00:06,062 --> 00:00:07,372
+true or false statement.
+
+3
+00:00:07,642 --> 00:00:12,983
+We will explain the rules, show the algebra, and include units in the applications.
+
+4
+00:00:13,253 --> 00:00:15,970
+This is a study guide, rather than a new exam.
+
+5
+00:00:17,090 --> 00:00:19,772
+Use the chapter markers to jump to a problem.
+
+6
+00:00:20,042 --> 00:00:25,347
+The new narration uses a neural synthetic voice, with a slower pace and more consistent volume.
+
+7
+00:00:25,617 --> 00:00:28,311
+Yellow highlights the current transformation.
+
+8
+00:00:28,581 --> 00:00:30,485
+Captions follow the explanation.
+
+9
+00:00:30,755 --> 00:00:33,216
+Pause before the next reveal to practice.
+
+10
+00:00:34,336 --> 00:00:36,426
+For part a, use the power rule.
+
+11
+00:00:36,696 --> 00:00:41,444
+Bring the exponent down as a multiplier, then subtract one from the exponent.
+
+12
+00:00:41,714 --> 00:00:44,002
+X to the fourth becomes four x cubed.
+
+13
+00:00:45,122 --> 00:00:47,920
+For b, e to the x is its own derivative.
+
+14
+00:00:48,190 --> 00:00:51,673
+For c, rewrite the square root as x to the one half.
+
+15
+00:00:51,943 --> 00:00:58,494
+The power rule gives one half times x to the negative one half, which is one over two square root x, for
+
+16
+00:00:58,494 --> 00:00:59,187
+positive x.
+
+17
+00:01:00,307 --> 00:01:03,872
+For d, one over x squared is x to the negative two.
+
+18
+00:01:04,142 --> 00:01:07,067
+The power rule still works with a negative exponent.
+
+19
+00:01:07,337 --> 00:01:11,633
+The derivative is negative two over x cubed, with x not zero.
+
+20
+00:01:12,753 --> 00:01:15,737
+In part e, the base is two, not e.
+
+21
+00:01:16,007 --> 00:01:21,521
+An exponential with constant positive base a differentiates to a to the x times natural log a.
+
+22
+00:01:21,791 --> 00:01:25,797
+Do not use the ordinary power rule when x is in the exponent.
+
+23
+00:01:26,917 --> 00:01:30,202
+Parts f and i both say sine x in the PDF.
+
+24
+00:01:30,472 --> 00:01:32,400
+Their derivative is cosine x.
+
+25
+00:01:32,670 --> 00:01:35,375
+We are keeping that repeated question as printed.
+
+26
+00:01:36,495 --> 00:01:39,119
+Part g is one over x, for positive x.
+
+27
+00:01:39,389 --> 00:01:46,297
+For h, use change of base: log base four of x equals natural log x divided by natural log four.
+
+28
+00:01:46,567 --> 00:01:49,225
+That constant denominator stays in the derivative.
+
+29
+00:01:50,345 --> 00:01:54,885
+Part j has a negative sign: cosine differentiates to negative sine.
+
+30
+00:01:55,155 --> 00:01:59,021
+Part k, tangent, differentiates to secant squared.
+
+31
+00:01:59,291 --> 00:02:02,031
+These formulas assume angles in radians.
+
+32
+00:02:03,151 --> 00:02:05,694
+Part l is negative cosecant squared.
+
+33
+00:02:05,964 --> 00:02:08,158
+Part m is secant times tangent.
+
+34
+00:02:08,428 --> 00:02:12,793
+Evaluate these only where the original trigonometric function is defined.
+
+35
+00:02:13,913 --> 00:02:17,048
+Part n is negative cosecant times cotangent.
+
+36
+00:02:17,318 --> 00:02:24,040
+A useful memory check: the derivatives of cosine, cotangent, and cosecant have a leading minus sign.
+
+37
+00:02:25,160 --> 00:02:30,187
+In part o, sine to the negative one means inverse sine, also called arc sine.
+
+38
+00:02:30,457 --> 00:02:32,756
+It does not mean reciprocal sine.
+
+39
+00:02:33,026 --> 00:02:39,690
+Its derivative is one over square root of one minus x squared, for x strictly between negative one and one.
+
+40
+00:02:40,810 --> 00:02:45,210
+Inverse cosine has the same square root denominator and a negative sign.
+
+41
+00:02:45,480 --> 00:02:49,892
+Its derivative also requires negative one less than x less than one.
+
+42
+00:02:51,012 --> 00:02:54,843
+Inverse tangent differentiates to one over one plus x squared.
+
+43
+00:02:55,113 --> 00:03:01,000
+Unlike inverse sine and inverse cosine, this derivative is defined for every real x.
+
+44
+00:03:02,120 --> 00:03:06,055
+Parts r and s are hyperbolic sine and hyperbolic cosine.
+
+45
+00:03:06,325 --> 00:03:12,630
+They differentiate into each other, and neither formula has the negative sign that appears for ordinary cosine.
+
+46
+00:03:13,750 --> 00:03:20,518
+The derivative of hyperbolic tangent is hyperbolic secant squared, meaning one over hyperbolic cosine squared.
+
+47
+00:03:20,788 --> 00:03:24,457
+Keep the hyperbolic functions distinct from ordinary trigonometry.
+
+48
+00:03:25,577 --> 00:03:29,698
+For part u, one over the cube root of x is x to the negative one third.
+
+49
+00:03:29,968 --> 00:03:35,216
+Multiply by negative one third, then reduce the exponent to negative four thirds.
+
+50
+00:03:35,486 --> 00:03:40,084
+This real cube-root formula works on either side of zero, but not at zero.
+
+51
+00:03:41,204 --> 00:03:43,444
+Problem two asks for two derivatives.
+
+52
+00:03:43,714 --> 00:03:47,314
+Apply the sum rule, differentiating each term separately.
+
+53
+00:03:47,584 --> 00:03:51,171
+A constant has zero derivative because it does not change.
+
+54
+00:03:52,291 --> 00:03:59,002
+X squared becomes two x, negative ten x becomes negative ten, and one hundred becomes zero.
+
+55
+00:03:59,272 --> 00:04:04,148
+Differentiate again: two x becomes two and negative ten becomes zero.
+
+56
+00:04:05,268 --> 00:04:09,447
+For problem three, use the sine and cosine formulas separately.
+
+57
+00:04:09,717 --> 00:04:12,852
+Watch the sign when cosine is differentiated.
+
+58
+00:04:13,972 --> 00:04:16,631
+The first derivative is cosine minus sine.
+
+59
+00:04:16,901 --> 00:04:20,395
+Differentiating again gives negative sine minus cosine.
+
+60
+00:04:20,665 --> 00:04:24,148
+The minus before sine stays when taking its derivative.
+
+61
+00:04:25,268 --> 00:04:28,310
+Problem four is a cube whose inside is sixteen x.
+
+62
+00:04:28,580 --> 00:04:31,796
+We can use the chain rule or expand the constant first.
+
+63
+00:04:32,066 --> 00:04:34,469
+We will show both ways to check the result.
+
+64
+00:04:35,589 --> 00:04:41,151
+The chain rule gives three times the inside squared, times the inside derivative sixteen.
+
+65
+00:04:41,421 --> 00:04:48,340
+Alternatively, sixteen cubed is four thousand ninety six, so the original is four thousand ninety six x cubed.
+
+66
+00:04:48,610 --> 00:04:52,349
+Both methods give twelve thousand two hundred eighty eight x squared.
+
+67
+00:04:53,469 --> 00:04:57,323
+For problem five, keep the constant multiplier negative two.
+
+68
+00:04:57,593 --> 00:05:01,796
+Cosine becomes negative sine, and tangent becomes secant squared.
+
+69
+00:05:02,916 --> 00:05:04,541
+This is the first derivative.
+
+70
+00:05:04,811 --> 00:05:10,581
+To differentiate secant squared, view it as the square of secant x and use the chain rule.
+
+71
+00:05:11,701 --> 00:05:16,531
+The derivative of secant squared is two secant x times secant x tangent x.
+
+72
+00:05:16,801 --> 00:05:21,782
+Multiplying by negative two gives negative four secant squared x tangent x.
+
+73
+00:05:22,902 --> 00:05:25,421
+Rewrite the reciprocal as a negative power.
+
+74
+00:05:25,691 --> 00:05:29,279
+This avoids using the quotient rule for a simple reciprocal.
+
+75
+00:05:30,399 --> 00:05:33,313
+The first derivative uses the power rule twice.
+
+76
+00:05:33,583 --> 00:05:37,530
+Negative exponents obey the same bring-down-and-subtract-one rule.
+
+77
+00:05:38,650 --> 00:05:40,067
+Differentiate again.
+
+78
+00:05:40,337 --> 00:05:46,026
+Negative two times negative three gives positive six, and the exponent becomes negative four.
+
+79
+00:05:47,146 --> 00:05:48,864
+Problem seven is a quotient.
+
+80
+00:05:49,134 --> 00:05:53,499
+Here both the numerator and denominator change, so use the quotient rule.
+
+81
+00:05:54,619 --> 00:05:58,044
+Multiply the denominator by the derivative of the numerator.
+
+82
+00:05:58,314 --> 00:06:02,946
+Subtract the numerator times the derivative of the denominator, which is one.
+
+83
+00:06:03,216 --> 00:06:05,887
+Divide by the original denominator squared.
+
+84
+00:06:06,157 --> 00:06:09,106
+Keep x nonzero and cosine x nonzero.
+
+85
+00:06:10,226 --> 00:06:13,511
+For fractional exponents, the power rule still applies.
+
+86
+00:06:13,781 --> 00:06:16,765
+Subtract one by writing one as three thirds.
+
+87
+00:06:17,885 --> 00:06:20,010
+Four thirds minus one is one third.
+
+88
+00:06:20,280 --> 00:06:22,985
+Two thirds minus one is negative one third.
+
+89
+00:06:23,255 --> 00:06:28,479
+At zero, this derivative is not finite; the original function has a cusp there.
